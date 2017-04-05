@@ -7,7 +7,8 @@ The COMNAP Antarctic Facilities is a comprehensive list of the 115 Antarctic fac
 
 ## Download
 Version `1.0.0` released 05 April 2017. Downloads will have a time / version string (e.g. `20150405`) appended to the file name.
-[Download Latest](https://github.com/PolarGeospatialCenter/comnap-antarctic-facilities/releases)
+
+#### [Download Latest](https://github.com/PolarGeospatialCenter/comnap-antarctic-facilities/releases)
 
 ## File Formats
 See the [dist](/dist) directory for description of file formats and data.
