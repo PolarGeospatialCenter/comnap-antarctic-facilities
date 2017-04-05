@@ -7,13 +7,13 @@ The COMNAP Antarctic Facilities is a comprehensive list of the 115 Antarctic fac
 
 ## Download
 Version `1.0.0` released 05 April 2017. Downloads will have a time / version string (e.g. `20150405`) appended to the file name.
-[Download Latest](/releases)
+[Download Latest](/releases/latest)
 
 ## File Formats
 See the [dist](/dist) directory for description of file formats and data.
 
 ## Issues
-See an error in the data? Let us know by [submitting an issue](/issues).
+See an error in the data? Let us know by [submitting an issue](/issues/).
 
 ## Disclaimer
 The COMNAP facilities list is copyright to COMNAP and the information was provided by the COMNAP member National Antarctic Programs. The listing of any facilities does not imply any right of use. Data may be freely used for educational and non-commercial purposes only.
@@ -27,4 +27,5 @@ Data hosted by the [Polar Geospatial Center](//www.pgc.umn.edu).
 
 ## Contact
 Web: [comnap.aq](//comnap.aq)
+
 Email: <sec@comnap.aq>
