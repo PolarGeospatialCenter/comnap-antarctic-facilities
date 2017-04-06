@@ -10,6 +10,23 @@ Version `1.0.0` released 05 April 2017.
 
 #### [Download Latest](https://github.com/PolarGeospatialCenter/comnap-antarctic-facilities/releases)
 
+## Web Mapping Services
+Prefer not to download the dataset? Use the following URLs to connect to web services.
+
+<dl>
+<dt>ArcGIS Server Map Service</dt>
+<dd>http://discovery.pgc.umn.edu/arcgis/rest/services/features/COMNAP_Antarctic_Facilities/MapServer</dd>
+<dt>Esri FeatureService</dt>
+<dd>http://discovery.pgc.umn.edu/arcgis/rest/services/features/COMNAP_Antarctic_Facilities/FeatureServer
+<dt>OGC Web Mapping Service (WMS)</dt>
+<dd>http://discovery.pgc.umn.edu/arcgis/services/features/COMNAP_Antarctic_Facilities/MapServer/WMSServer</dd>
+<dd>GetCapabilities: http://discovery.pgc.umn.edu/arcgis/services/features/COMNAP_Antarctic_Facilities/MapServer/WMSServer?request=GetCapabilities&service=WMS</dd>
+<dt>OGC Web Feature Service (WFS)</dt>
+<dd>http://discovery.pgc.umn.edu/arcgis/services/features/COMNAP_Antarctic_Facilities/MapServer/WFSServer</dd>
+<dd>Available Layers: <pre>COMNAP_Antarctic_Facilities</pre></dd>
+<dd>GetCapabilities: http://discovery.pgc.umn.edu/arcgis/services/features/COMNAP_Antarctic_Facilities/MapServer/WFSServer?request=GetCapabilities&service=WFS</dd>
+</dl>
+
 ## File Formats
 See the [dist](/dist) directory for description of file formats and data.
 
