@@ -1,0 +1,161 @@
+fac_id,name_eng,name_off,operator_1,iso_1,operator_2,iso_2,un_locode,scar_id,fac_type,fac_seas,fac_stat,year_est,year_cls,ant_reg,ant_loc,lat_dd,lon_dd,lat_ddm,lon_ddm,elev_m,elev_datum,avg_pop_sm,avg_pop_wn,peak_pop,max_cap,date_mod
+4,Belgrano II,Base Belgrano II,Argentina,AR,,,AQ-BEL,5217,Station,Year-Round,Open,1955,,East Antarctica,Coats Land,-77.874444,-34.626944,77° 52.4666' S,34° 37.6166' W,250,MSL,,12,12,,12/15/2016 10:17
+5,Brown,Base Antartica Almirante Brown,Argentina,AR,,,,1920,Station,Seasonal,Open,,,Antarctic Peninsula,Graham Land,-64.89537,-62.870451,64° 53.7222' S,62° 52.2271' W,10,MSL,,,18,,12/14/2016 10:50
+6,Cámara,Base Cámara,Argentina,AR,,,,14514,Station,Seasonal,Open,,,Antarctic Peninsula,Half Moon Island,-62.593858,-59.919344,62° 35.6315' S,59° 55.1606' W,22,MSL,,,36,,12/14/2016 10:50
+9,Carlini,Base Carlini,Argentina,AR,,,AQ-JUB,14515,Station,Year-Round,Open,1982,,Antarctic Peninsula,King George Island,-62.2379,-58.666842,62° 14.274' S,58° 40.0105' W,10,MSL,,20,100,,12/14/2016 10:50
+7,Deception,Base Decepción,Argentina,AR,,,,3455,Station,Seasonal,Open,1948,,Antarctic Peninsula,Deception Island,-62.97676,-60.700695,62° 58.6056' S,60° 42.0417' W,7,MSL,,,65,,12/14/2016 10:50
+8,Esperanza,Base Esperanza,Argentina,AR,,,AQ-ESP,4341,Station,Year-Round,Open,1952,,Antarctic Peninsula,Trinity Peninsula,-63.396959,-56.998054,63° 23.8175' S,56° 59.8832' W,25,MSL,,55,90,,12/15/2016 12:17
+10,Marambio,Base Antártica Marambio,Argentina,AR,,,AQ-MRB,18363,Station,Year-Round,Open,1969,,Antarctic Peninsula,Seymour Island,-64.241769,-56.623225,64° 14.5061' S,56° 37.3935' W,200,MSL,,55,150,,12/15/2016 11:51
+11,Matienzo,Base Matienzo,Argentina,AR,,,,14517,Station,Seasonal,Open,1961,,Antarctic Peninsula,,-64.975865,-60.070948,64° 58.5519' S,60° 4.2569' W,32,MSL,,,15,,12/15/2016 10:41
+12,Melchior ,Base Melchior,Argentina,AR,,,,9401,Station,Seasonal,Open,1947,,Antarctic Peninsula,Anvers Island,-64.325705,-62.976329,64° 19.5423' S,62° 58.5797' W,,,,,36,,12/14/2016 10:50
+13,Orcadas,Base Orcadas,Argentina,AR,,,AQ-ORC,10659,Station,Year-Round,Open,1904,,Sub-Antarctic Islands,Laurie Island,-60.737592,-44.737387,60° 44.2555' S,44° 44.2432' W,4,MSL,,14,45,,12/14/2016 10:50
+14,Petrel,Base Petrel,Argentina,AR,,,,11184,Station,Seasonal,Open,1967,,Antarctic Peninsula,Dundee Island,-63.478303,-56.230993,63° 28.6982' S,56° 13.8596' W,18,MSL,,,55,,12/14/2016 10:50
+15,Primavera,Base Primavera,Argentina,AR,,,,11601,Station,Seasonal,Open,1977,,Antarctic Peninsula,Graham Land,-64.155854,-60.954256,64° 9.3512' S,60° 57.2554' W,50,MSL,,,18,,12/14/2016 10:50
+16,San Martín,Base San Martín,Argentina,AR,,,AQ-SMT,12673,Station,Year-Round,Open,1951,,Antarctic Peninsula,Barry Island,-68.1303,-67.102931,68° 7.818' S,67° 6.1759' W,5,MSL,,20,20,,12/14/2016 10:50
+19,Casey,Casey Station,Australia,AU,,,AQ-CAS,2382,Station,Year-Round,Open,1969,,East Antarctica,Wilkes Land,-66.282343,110.526792,66° 16.9406' S,110° 31.6075' E,32,MSL,85,20,70,95,12/19/2016 16:01
+20,Davis,Davis Station,Australia,AU,,,AQ-DAV,3394,Station,Year-Round,Open,1957,,East Antarctica,,-68.575938,77.969516,68° 34.5563' S,77° 58.171' E,27,MSL,,22,70,,12/19/2016 16:02
+17,Edgeworth David,Edgeworth David Camp,Australia,AU,,,,2046,Camp,Seasonal,Open,,,East Antarctica,,-66.249935,100.604213,66° 14.9961' S,100° 36.2528' E,15,MSL,,,,,11/17/2016 20:15
+22,Law ,Law Station,Australia,AU,,,AQ-LAW,18360,Station,Seasonal,Open,,,East Antarctica,,-69.388296,76.380696,69° 23.2978' S,76° 22.8418' E,65,,,,13,,11/17/2016 20:16
+120,Macquarie Island,Macquarie Island,Australia,AU,,,,,Station,Year-Round,Open,1948,,Sub-Antarctic Islands,Macquarie Island,-54.499392,158.936794,54° 29.9635' S,158° 56.2076' E,0,,,,,,4/5/2017 9:33
+21,Mawson,Mawson Station,Australia,AU,,,AQ-MAW,9186,Station,Year-Round,Open,1954,,East Antarctica,Mac Robertson Land,-67.602644,62.873028,67° 36.1586' S,62° 52.3817' E,15,MSL,35,20,45,45,12/19/2016 16:11
+18,Wilkins Aerodrome,Wilkins Aerodrome,Australia,AU,,,,18111,Airfield Camp,Seasonal,Open,2003,,East Antarctica,Wilkes Land,-66.689394,111.483352,66° 41.3636' S,111° 29.0011' E,740,MSL,8,0,12,12,4/5/2017 9:33
+101,Mountain Evening,Mountain Vechernya,Belarus,BY,,,,,Station,Year-Round,Open,2006,,East Antarctica,Enderby Land,-67.658333,46.153333,67° 39.5' S,46° 9.2' E,95,MSL,,,12,,12/19/2016 16:22
+23,Princess Elisabeth Antarctica,Princess Elisabeth Antarctica,Belgium,BE,,,,,Station,Seasonal,Open,2009,,East Antarctica,Queen Maud Land,-71.9498578,23.34689116,71° 56.9915' S,23° 20.8135' E,"1,382",MSL,22,0,40,,2/14/2017 21:40
+24,Comandante Ferraz,Estação Antártica Comandante Ferraz,Brazil,BR,,,AQ-CFZ,18349,Station,Year-Round,Open,1984,,Antarctic Peninsula,King George Island,-62.084722,-58.3925,62° 5.0833' S,58° 23.55' W,8,MSL,,12,66,,12/19/2016 16:43
+25,St. Kliment Ohridski ,St. Kliment Ohridski Base,Bulgaria,BG,,,,14185,Station,Seasonal,Open,1988,,Antarctic Peninsula,Livingston Island,-62.64072307,-60.36523384,62° 38.4434' S,60° 21.914' W,15,MSL,22,,22,,2/14/2017 21:46
+28,Arturo Prat,Base Naval Antártica Arturo Prat,Chile,CL,,,AQ-APT,2299,Station,Year-Round,Open,1947,,Antarctic Peninsula,Greenwich Island,-62.478717,-59.663603,62° 28.723' S,59° 39.8162' W,10,MSL,34,9,34,34,12/15/2016 11:51
+31,Bernardo O'Higgins Riquelme,Base General Bernardo O'Higgins Riquelme,Chile,CL,,,AQ-OHG,5218,Station,Year-Round,Open,1948,,Antarctic Peninsula,Trinity Peninsula,-63.320951,-57.899781,63° 19.2571' S,57° 53.9869' W,12,MSL,,21,44,,12/15/2016 11:51
+30,Eduardo Frei Montalva,Base Aérea Antártica Presidente Eduardo Frei Montalva,Chile,CL,,,,11571,Station,Year-Round,Open,1969,,Antarctic Peninsula,King George Island,-62.200232,-58.962627,62° 12.0139' S,58° 57.7576' W,10,MSL,,70,120,,12/12/2016 10:02
+29,Julio Escudero,Profesor Julio Escudero Base,Chile,CL,,,AQ-ESC,18356,Station,Seasonal,Open,1995,,Antarctic Peninsula,King George Island,-62.201373,-58.962676,62° 12.0824' S,58° 57.7606' W,10,MSL,30,0,46,46,12/20/2016 16:04
+102,Lieutenant Luis Carvajal Villarroel,Lieutenant Luis Carvajal Villarroel,Chile,CL,,,,,Station,Seasonal,Open,1985,,Antarctic Peninsula,Adelaide Island,-67.761322,-68.914815,67° 45.6793' S,68° 54.8889' W,,,,,30,,12/15/2016 11:51
+27,Lieutenant Rodolfo Marsh Martin Aerodrome,Aerodromo Teniente Rodolfo Marsh Martin,Chile,CL,,,AQ-TNM,,Airfield Camp,Year-Round,Open,1969,,Antarctic Peninsula,King George Island,-62.193794,-58.980605,62° 11.6276' S,58° 58.8363' W,45,MSL,,8,15,,11/17/2016 20:30
+32,Luis Guillermo Mann,Base Guillermo Mann,Chile,CL,,,,,Station,Seasonal,Open,1991,,Antarctic Peninsula,Livingston Island,-62.47015,-60.771178,62° 28.209' S,60° 46.2707' W,,,4,0,6,6,4/5/2017 9:34
+34,President Gabriel Gonzalez Videla ,Base Aérea Antártica Presidente Gabriel González Videla,Chile,CL,,,,11572,Station,Seasonal,Open,1951,,Antarctic Peninsula,Graham Land,-64.823862,-62.857499,64° 49.4317' S,62° 51.4499' W,,,12,0,16,24,12/12/2016 10:02
+104,Rada Covadonga,Rada Covadonga,Chile,CL,,,,,Station,Seasonal,Open,,,Antarctic Peninsula,Trinity Peninsula,-63.320658,-57.898224,63° 19.2395' S,57° 53.8934' W,,,,,,,9/15/2016 11:10
+103,Ripamonti,Ripamonti,Chile,CL,,,,,Station,Seasonal,Open,,,Antarctic Peninsula,King George Island,-62.210151,-58.93474,62° 12.6091' S,58° 56.0844' W,50,MSL,,,,,12/15/2016 11:51
+33,Risopatron ,Refugio Luis Risopatrón,Chile,CL,,,,,Refuge,Seasonal,Open,1957,,Antarctic Peninsula,Robert Island,-62.378533,-59.700724,62° 22.712' S,59° 42.0434' W,40,MSL,3,0,8,5,12/15/2016 11:51
+35,Yelcho,Yelcho,Chile,CL,,,,16363,Station,Seasonal,Open,1962,,Antarctic Peninsula,Doumer Island,-64.875858,-63.583806,64° 52.5515' S,63° 35.0284' W,10,MSL,5,0,13,13,12/20/2016 16:05
+73,Great Wall,Great Wall Station,China,CN,China,CN,AQ-GWL,18357,Station,Year-Round,Open,1985,,Antarctic Peninsula,King George Island,-62.217519,-58.961992,62° 13.0511' S,58° 57.7195' W,10,MSL,30,13,40,40,12/20/2016 16:11
+74,Kunlun ,Kunlun Station ,China,CN,China,CN,,,Station,Seasonal,Open,2009,,East Antarctica,East Antarctic Ice Sheet,-80.41718972,77.1159973,80° 25.0314' S,77° 6.9598' E,"4,087",MSL,28,0,28,,12/20/2016 16:17
+96,Taishan,Taishan,China,CN,China,CN,,,Camp,Seasonal,Open,2014,,East Antarctica,,-73.85,76.966667,73° 51' S,76° 58' E,"2,621",MSL,12,0,20,,4/5/2017 9:35
+75,Zhongshan,Zhongshan Station,China,CN,China,CN,AQ-ZGN,18370,Station,Year-Round,Open,1989,,East Antarctica,,-69.373206,76.371871,69° 22.3924' S,76° 22.3123' E,11,MSL,45,17,60,80,12/20/2016 16:57
+36,Johann Gregor Mendel,Ceská vedecká stanice Johanna Gregora Mendela,Czech Republic,CZ,,,,,Station,Seasonal,Open,2006,,Antarctic Peninsula,James Ross Island,-63.800625,-57.882592,63° 48.0375' S,57° 52.9555' W,10,MSL,18,0,20,29,12/20/2016 16:42
+38,Pedro Vicente Maldonado,Pedro Vicente Maldonado Base,Ecuador,EC,,,,18362,Station,Seasonal,Open,1990,,Antarctic Peninsula,Greenwich Island,-62.44932928,-59.74096859,62° 26.9598' S,59° 44.4581' W,10,MSL,,,22,,12/20/2016 16:43
+37,Republica del Ecuador,Refugio República del Ecuador,Ecuador,EC,,,,18369,Refuge,Seasonal,Open,1990,,Antarctic Peninsula,King George Island,-62.12099018,-58.3951612,62° 7.2594' S,58° 23.7097' W,10,MSL,,,4,,12/15/2016 11:51
+39,Aboa,Aboa Station ,Finland,FI,,,AQ-ABA,18345,Station,Seasonal,Open,1988,,East Antarctica,Queen Maud Land,-73.04228194,-13.40735764,73° 2.5369' S,13° 24.4415' W,400,MSL,,,17,,12/20/2016 16:45
+118,Alfred-Faure,Alfred-Faure,France,FR,,,,,Station,Year-Round,Open,1962,,,,-46.432367,51.858025,46° 25.942' S,51° 51.4815' E,146,,,,,,4/5/2017 9:36
+40,Cap Prud'homme,Cap Prud'homme Camp,France,FR,Italy,IT,,,Camp,Seasonal,Open,1994,,East Antarctica,Wilkes Land,-66.687608,139.90717,66° 41.2565' S,139° 54.4302' E,10,WGS84,15,,20,20,12/20/2016 17:02
+117,D85 Skiway camp,D85 Skiway camp,France,FR,,,,,Airfield Camp,Seasonal,Open,,,East Antarctica,East Antarctic Ice Sheet,-70.425,134.145833,70° 25.5' S,134° 8.75' E,"2,850",WGS84,0,,0,0,11/27/2016 16:11
+41,Dumont d'Urville,Dumont d'Urville Station,France,FR,,,AQ-DDU,3947,Station,Year-Round,Open,1956,,East Antarctica,Wilkes Land,-66.662833,140.001333,66° 39.77' S,140° 0.08' E,42,WGS84,70,26,90,90,12/20/2016 17:00
+122,Martin-de-Viviès,Base Martin-de-Viviès,France,FR,,,,,Station,Year-Round,Open,1950,,Sub-Antarctic Islands,Île Amsterdam,-37.797258,77.571951,37° 47.8355' S,77° 34.3171' E,27,,,,,,12/20/2016 17:04
+123,Port aux Français,Port aux Français,France,FR,,,,,Station,Year-Round,Open,1949,,Sub-Antarctic Islands,Kerguelen Islands,-49.349058,70.219113,49° 20.9435' S,70° 13.1468' E,20,,,,,,12/20/2016 17:06
+44,Antarctic Receiving Station (GARS),Antarctic Receiving Station (GARS),Germany,DE,Germany,DE,,,Station,Year-Round,Open,1991,,Antarctic Peninsula,Graham Land,-63.321092,-57.90094,63° 19.2655' S,57° 54.0564' W,17,WGS84,4,10,10,,12/15/2016 12:17
+43,Dallman Laboratory,Dallman Laboratory at Carlini,Germany,DE,Germany,DE,,,Laboratory,Seasonal,Open,1994,,Antarctic Peninsula,King George Island,-62.237609,-58.666716,62° 14.2565' S,58° 40.003' W,10,WGS84,9,,12,,4/5/2017 9:42
+45,Gondwana,Gondwana Station,Germany,DE,,,,,Station,Seasonal,Open,1983,,Transantarctic Mountains,Victoria Land,-74.635501,164.221215,74° 38.1301' S,164° 13.2729' E,20,WGS84,,,20,20,12/20/2016 18:09
+46,Kohnen,Kohnen Station,Germany,DE,,,AQ-KHN,18359,Station,Seasonal,Open,2000,,East Antarctica,Queen Maud Land,-75.001909,0.066336,75° 0.1145' S,0° 3.9802' E,"2,892",WGS84,15,,25,28,12/20/2016 18:13
+47,Neumayer III,Neumayer-Station III,Germany,DE,,,AQ-NEU,5250,Station,Year-Round,Open,1981,,East Antarctica,Queen Maud Land,-70.676282,-8.272758,70° 40.5769' S,8° 16.3655' W,43,MSL,40,9,50,,4/5/2017 9:37
+48,Bharati,Bharati Station,India,IN,,,,,Station,Year-Round,Open,2012,,East Antarctica,,-69.4068,76.19525,69° 24.408' S,76° 11.715' E,35,,40,22,,72,12/20/2016 18:33
+50,Maitri,Maitri Station,India,IN,,,AQ-MTR,16560,Station,Year-Round,Open,1989,,East Antarctica,Queen Maud Land,-70.766834,11.730783,70° 46.01' S,11° 43.847' E,50,MSL,55,25,65,70,12/15/2016 12:17
+51,Browning Pass,Browning Pass,Italy,IT,,,,18348,Airfield Camp,Seasonal,Open,1997,,Transantarctic Mountains,Victoria Land,-74.622906,163.915171,74° 37.3744' S,163° 54.9103' E,63,MSL,,,2,,12/21/2016 14:50
+42,Concordia,Concordia Station,Italy,IT,France,FR,AQ-CON,18350,Station,Year-Round,Open,1997,,East Antarctica,East Antarctic Ice Sheet,-75.099975,123.332605,75° 5.9985' S,123° 19.9563' E,"3,220",WGS84,,13,60,,12/20/2016 16:55
+52,Enigma Lake,Enigma Lake,Italy,IT,,,,18355,Airfield Camp,Seasonal,Open,2005,,Transantarctic Mountains,Victoria Land,-74.719164,164.027711,74° 43.1498' S,164° 1.6627' E,250,MSL,,,,,12/21/2016 14:52
+55,Mario Zucchelli,Mario Zucchelli Station,Italy,IT,,,AQ-MZU,17177,Station,Seasonal,Open,1986,,Transantarctic Mountains,Victoria Land,-74.694807,164.113268,74° 41.6884' S,164° 6.7961' E,15,MSL,85,,90,,12/21/2016 14:48
+53,Mid Point,Mid Point,Italy,IT,,,,18364,Airfield Camp,Seasonal,Open,1988,,East Antarctica,East Antarctic Ice Sheet,-75.541703,145.820399,75° 32.5022' S,145° 49.2239' E,"2,520",MSL,,,,,12/21/2016 15:05
+112,Talos Dome,Talos Dome,Italy,IT,,,,,Camp,Seasonal,Open,,,East Antarctica,East Antarctic Ice Sheet,-72.830215,159.200432,72° 49.8129' S,159° 12.0259' E,,,,,,,4/5/2017 9:38
+57,Asuka,Asuka Station,Japan,JP,,,,598,Station,Seasonal,Temporarily Closed,1985,,East Antarctica,Queen Maud Land,-71.52627263,24.11251621,71° 31.5764' S,24° 6.751' E,980.3,,,,,,12/21/2016 15:17
+58,Dome Fuji,Dome Fuji Station ,Japan,JP,,,AQ-DMF,18353,Station,Seasonal,Temporarily Closed,1995,,East Antarctica,East Antarctic Ice Sheet,-77.31707524,39.69877019,77° 19.0245' S,39° 41.9262' E,"3,810",MSL,,,15,,12/21/2016 15:20
+59,Mizuho,Mizuho Station ,Japan,JP,,,,9692,Station,Seasonal,Temporarily Closed,1970,,East Antarctica,East Antarctic Ice Sheet,-70.6990456,44.27781168,70° 41.9427' S,44° 16.6687' E,"2,244.40",,,,,,12/21/2016 15:22
+56,S17 Camp,S17 Camp,Japan,JP,,,,,Camp,Seasonal,Open,,,East Antarctica,Enderby Land,-69.028076,40.092449,69° 1.6846' S,40° 5.5469' E,620,,,,,,9/21/2016 22:31
+60,Syowa,Syowa Station,Japan,JP,,,AQ-SYW,14350,Station,Year-Round,Open,1957,,East Antarctica,Enderby Land,-69.004122,39.581836,69° 0.2473' S,39° 34.9102' E,29,MSL,120,40,170,130,3/26/2017 21:54
+107,Dirck Gerritsz Laboratory,Dirck Gerritsz Laboratory,Netherlands,NL,United Kingdom,GB,,,Laboratory,Year-Round,Open,2012,,Antarctic Peninsula,Adelaide Island,-67.570856,-68.127941,67° 34.2514' S,68° 7.6765' W,16,MSL,,,,,4/5/2017 9:41
+61,Scott Base,Scott Base Station,New Zealand,NZ,,,AQ-SBA,12898,Station,Year-Round,Open,1957,,Transantarctic Mountains,Victoria Land,-77.849437,166.767281,77° 50.9662' S,166° 46.0369' E,10,,,10,85,,12/21/2016 15:53
+116,ALCI Airbase,ALCI Airbase,Non-Governmental Activities ALCI,AL,,,,,Camp,Seasonal,Open,,,East Antarctica,Queen Maud Land,-70.823107,11.643495,70° 49.3864' S,11° 38.6097' E,,,,,,,9/15/2016 11:16
+100,Union Glacier,Union Glacier Camp,Non-Governmental Activities ALE,AL,,,,15189,Airfield Camp,Seasonal,Open,2010,,West Antarctica,Ellsworth Land,-79.756694,-82.829338,79° 45.4016' S,82° 49.7603' W,712.37,WGS84,75,0,100,200,11/17/2016 21:14
+62,Tor,Tor,Norway,NO,,,AQ-TOR,18098,Refuge,Seasonal,Open,1993,,East Antarctica,Queen Maud Land,-71.889515,5.159893,71° 53.3709' S,5° 9.5936' E,"1,625",WGS84,2,0,7,6,12/21/2016 15:56
+63,Troll,Troll,Norway,NO,,,AQ-TRL,14980,Station,Year-Round,Open,1990,,East Antarctica,Queen Maud Land,-72.011946,2.53307,72° 0.7168' S,2° 31.9842' E,"1,275",WGS84,30,6,70,65,12/21/2016 16:04
+64,Machu Picchu,Machu Picchu Station ,Peru,PE,,,,18361,Station,Seasonal,Open,1989,,Antarctic Peninsula,King George Island,-62.09159252,-58.47055896,62° 5.4956' S,58° 28.2335' W,3.5,MSL,,,28,,12/21/2016 16:09
+65,Arctowski,Henryk Arctowski Polish Antarctic Station,Poland,PL,,,AQ-ARC,474,Station,Year-Round,Open,1977,,Antarctic Peninsula,King George Island,-62.15977292,-58.47332175,62° 9.5864' S,58° 28.3993' W,2,MSL,25,10,40,50,12/21/2016 16:24
+106,Jang Bogo,Jang Bogo,Republic of Korea,KR,,,AQ-JBS,,Station,Year-Round,Open,2014,,Transantarctic Mountains,Victoria Land,-74.627363,164.23585,74° 37.6418' S,164° 14.151' E,36.6,MSL,40,16,62,62,4/5/2017 9:43
+105,King Sejong,King Sejong,Republic of Korea,KR,,,AQ-KSG,18358,Station,Year-Round,Open,1988,,Antarctic Peninsula,King George Island,-62.223239,-58.786504,62° 13.3943' S,58° 47.1902' W,10,MSL,50,17,68,68,12/21/2016 16:32
+68,Bellingshausen,Bellingshausen,Russia,RU,,,AQ-BHN,1141,Station,Year-Round,Open,1968,,Antarctic Peninsula,King George Island,-62.19818377,-58.96060891,62° 11.891' S,58° 57.6365' W,16,MSL,,25,40,,12/21/2016 16:38
+69,Druzhnaya-4,Druzhnaya-4,Russia,RU,,,AQ-DRZ,18354,Station,Seasonal,Open,1987,,East Antarctica,,-69.74782719,73.70921376,69° 44.8696' S,73° 42.5528' E,20,MSL,,,50,,12/21/2016 16:44
+70,Leningradskaya,Leningradskaya ,Russia,RU,,,,8319,Station,Seasonal,Open,1971,,East Antarctica,Wilkes Land,-69.50149558,159.3911476,69° 30.0897' S,159° 23.4689' E,300,MSL,,,10,,12/21/2016 16:47
+71,Mirny,Mirny,Russia,RU,,,AQ-MIR,9647,Station,Year-Round,Open,1956,,East Antarctica,,-66.553181,93.009559,66° 33.1909' S,93° 0.5735' E,35,MSL,,25,50,,4/5/2017 9:44
+72,Molodezhnaya ,Molodezhnaya ,Russia,RU,,,,9744,Station,Seasonal,Open,1963,,East Antarctica,Enderby Land,-67.66544285,45.84203764,67° 39.9266' S,45° 50.5223' E,40,MSL,,,15,,12/21/2016 16:53
+76,Novolazarevskaya,Novolazarevskaya,Russia,RU,,,AQ-NOV,10430,Station,Year-Round,Open,1961,,East Antarctica,Queen Maud Land,-70.775796,11.832151,70° 46.5478' S,11° 49.9291' E,102,MSL,,30,70,,4/5/2017 9:44
+108,Oazis,Oazis,Russia,RU,,,,,Station,Year-Round,Open,,,East Antarctica,,-66.266667,100.733333,66° 16' S,100° 44' E,29,,,,,,12/21/2016 17:25
+77,Progress,Progress ,Russia,RU,,,AQ-PRO,,Station,Year-Round,Open,1989,,East Antarctica,,-69.378889,76.386944,69° 22.7333' S,76° 23.2166' E,15,MSL,,25,80,,12/21/2016 17:03
+109,Progress 3,Progress 3,Russia,RU,,,AQ-PRO,18366,Station,Year-Round,Open,,,East Antarctica,,-69.37812036,76.38779398,69° 22.6872' S,76° 23.2676' E,105,,,,,,12/21/2016 17:04
+78,Russkaya,Russkaya,Russia,RU,,,,12528,Station,Seasonal,Open,1980,,West Antarctica,,-74.76572579,-136.8000722,74° 45.9435' S,136° 48.0043' W,126,MSL,,,10,,12/21/2016 17:09
+79,Soyuz,Soyuz,Russia,RU,,,,,Station,Seasonal,Open,1982,,East Antarctica,Mac Robertson Land,-70.5765771,68.79493694,70° 34.5946' S,68° 47.6962' E,336,MSL,,,30,,12/21/2016 17:10
+80,Vostok,Vostok,Russia,RU,,,AQ-VOS,15605,Station,Year-Round,Open,1957,,East Antarctica,,-78.464182,106.836882,78° 27.8509' S,106° 50.2129' E,"3,488",MSL,,15,30,,4/5/2017 9:46
+119,Gough Island,Gough Island,South Africa,ZA,,,,,Station,Year-Round,Open,1956,,Sub-Antarctic Islands,,-40.349382,-9.880257,40° 20.9629' S,9° 52.8154' W,50,,,,,,12/21/2016 17:28
+121,Marion Island,Marion Island,South Africa,ZA,,,,,Station,Year-Round,Open,1947,,Sub-Antarctic Islands,,-46.875575,37.858479,46° 52.5345' S,37° 51.5087' E,20,,,,,,12/21/2016 17:31
+81,SANAE IV,SANAE IV,South Africa,ZA,,,AQ-SNA,18367,Station,Year-Round,Open,1962,,East Antarctica,Queen Maud Land,-71.67287313,-2.840324047,71° 40.3724' S,2° 50.4194' W,850,MSL,,10,80,,12/21/2016 17:36
+82,Gabriel de Castilla,Gabriel de Castilla,Spain,ES,,,AQ-GDC,5048,Station,Seasonal,Open,1990,,Antarctic Peninsula,Deception Island,-62.97719656,-60.67574545,62° 58.6318' S,60° 40.5447' W,15,MSL,,,36,,12/21/2016 17:42
+110,International Field Camp Peninsula Byers,International Field Camp Peninsula Byers,Spain,ES,,,,,Camp,Seasonal,Open,2001,,Antarctic Peninsula,,-62.663772,-61.099436,62° 39.8263' S,61° 5.9662' W,10,MSL,,,12,,4/5/2017 9:47
+83,Juan Carlos I,Juan Carlos I Station ,Spain,ES,,,AQ-JCP,7246,Station,Seasonal,Open,1988,,Antarctic Peninsula,Livingston Island,-62.66340863,-60.38814603,62° 39.8045' S,60° 23.2888' W,12,MSL,,,50,,12/21/2016 17:48
+84,Svea,Svea,Sweden,SE,,,,14295,Refuge,Seasonal,Temporarily Closed,,,East Antarctica,Queen Maud Land,-74.576061,-11.224872,74° 34.5637' S,11° 13.4923' W,,,,,,,11/20/2016 14:24
+85,Wasa,Wasa,Sweden,SE,,,AQ-WSA,15754,Station,Seasonal,Open,1989,,East Antarctica,Queen Maud Land,-73.042799,-13.41291,73° 2.5679' S,13° 24.7746' W,440,WGS84,8,0,20,,12/21/2016 17:56
+86,Vernadsky,Vernadsky,Ukraine,UA,,,AQ-VKY,18368,Station,Year-Round,Open,1996,,Antarctic Peninsula,Graham Land,-65.24574295,-64.25748123,65° 14.7446' S,64° 15.4489' W,7,MSL,,12,24,,12/21/2016 18:08
+87,Fossil Bluff,Fossil Bluff Camp,United Kingdom,GB,,,,4848,Camp,Seasonal,Open,1961,,Antarctic Peninsula,,-71.32341152,-68.28906406,71° 19.4047' S,68° 17.3438' W,92,WGS84,,,6,,12/21/2016 19:50
+90,Halley VI,Halley VI,United Kingdom,GB,,,AQ-HLY,5910,Station,Year-Round,Open,1956,,East Antarctica,Coats Land,-75.580148,-26.766793,75° 34.8089' S,26° 46.0076' W,37,WGS84,,15,65,,4/5/2017 9:47
+91,Rothera,Rothera Research Station,United Kingdom,GB,,,AQ-ROT,12397,Station,Year-Round,Open,1975,,Antarctic Peninsula,Adelaide Island,-67.569529,-68.124888,67° 34.1717' S,68° 7.4933' W,16,WGS84,100,20,130,130,4/5/2017 9:48
+92,Signy,Signy Station ,United Kingdom,GB,,,AQ-SGN,13267,Station,Seasonal,Open,1947,,Sub-Antarctic Islands,Signy Island,-60.70828739,-45.59538916,60° 42.4972' S,45° 35.7233' W,5,WGS84,,,10,,12/21/2016 20:07
+89,Sky Blu,Sky Blu Camp,United Kingdom,GB,,,,16627,Airfield Camp,Seasonal,Open,,,Antarctic Peninsula,,-74.856351,-71.5852,74° 51.3811' S,71° 35.112' W,"1,400",WGS84,,,6,,12/21/2016 20:08
+2,Amundsen-Scott South Pole,Amundsen-Scott South Pole Station,United States,US,,,AQ-AMS,17020,Station,Year-Round,Open,1957,,East Antarctica,East Antarctic Ice Sheet,-89.9975,139.2728,89° 59.85' S,139° 16.368' E,"2,830",WGS84,150,50,150,250,12/21/2016 20:16
+99,Byrd Surface,Byrd Surface Camp,United States,US,,,,,Camp,Seasonal,Temporarily Closed,,,West Antarctica,Marie Byrd Land,-80.013894,-119.561353,80° 0.8336' S,119° 33.6812' W,,,0,0,0,0,11/20/2016 15:11
+115,CTAM,CTAM / Beardmore Camp,United States,US,,,,,Depot,Seasonal,Temporarily Closed,2010,,Transantarctic Mountains,Central Transantarctic Mountains,-84.006544,164.402997,84° 0.3926' S,164° 24.1798' E,,,0,0,0,0,11/20/2016 15:11
+95,Marble Point,Marble Point Helicopter Refueling Facility,United States,US,,,,,Depot,Seasonal,Open,,,Transantarctic Mountains,McMurdo Dry Valleys & Ross Island,-77.413666,163.679166,77° 24.82' S,163° 40.75' E,,,,,,,11/20/2016 15:12
+1,McMurdo,McMurdo Station,United States,US,,,AQ-MCM,9342,Station,Year-Round,Open,1956,,Transantarctic Mountains,McMurdo Dry Valleys & Ross Island,-77.848209,166.668422,77° 50.8925' S,166° 40.1053' E,10,MSL,,250,"1,000","1,200",12/21/2016 20:20
+3,Palmer,Palmer Station,United States,US,,,AQ-PLM,10852,Station,Year-Round,Open,1965,,Antarctic Peninsula,Anvers Island,-64.774261,-64.05333352,64° 46.4557' S,64° 3.2' W,10,MSL,,12,43,,12/21/2016 20:23
+113,Shackleton,Shackleton Camp,United States,US,,,,,Camp,Seasonal,Open,2015,,Transantarctic Mountains,Central Transantarctic Mountains,-85.088797,-175.332715,85° 5.3278' S,175° 19.9629' W,,,10,0,20,30,11/20/2016 15:14
+111,Siple Dome,Siple Dome,United States,US,,,,17131,Camp,Seasonal,Open,1973,,West Antarctica,Marie Byrd Land,-81.653771,-149.001846,81° 39.2263' S,149° 0.1108' W,,,2,0,10,15,9/9/2016 15:40
+114,WAIS Divide,WAIS Divide Camp,United States,US,,,,,Camp,Seasonal,Open,2005,,West Antarctica,Marie Byrd Land,-79.471286,-112.072154,79° 28.2772' S,112° 4.3292' W,,,30,0,40,50,11/20/2016 15:15
+93,Artigas,Artigas Station ,Uruguay,UY,,,AQ-ART,554,Station,Year-Round,Open,1984,,Antarctic Peninsula,King George Island,-62.18455071,-58.90244173,62° 11.073' S,58° 54.1465' W,17,MSL,,9,70,,12/21/2016 20:27
+94,Ruperto Elichiribehety,Ruperto Elichiribehety Station ,Uruguay,UY,,,,4173,Station,Seasonal,Open,1997,,Antarctic Peninsula,Trinity Peninsula,-63.40237211,-56.9909068,63° 24.1423' S,56° 59.4544' W,2.8,MSL,7,0,8,,12/21/2016 20:35
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
