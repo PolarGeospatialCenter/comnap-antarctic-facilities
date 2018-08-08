@@ -6,7 +6,7 @@ The Council of Managers of National Antarctic Programs (COMNAP) maintains a cura
 The COMNAP Antarctic Facilities is a comprehensive list of Antarctic facilities with a status of 'Open' or 'Temporarily Closed'. See the 'Information' tab of Excel spreadsheet (`.xls`) in the `dist` directory for a reference of fields / attributes included in the dataset. The information included in the datasets was provided by each National Antarctic Program to COMNAP and is updated frequently. COMNAP will release scheduled updates of this dataset. If you would like to be notified of changes, you can watch this repository.
 
 ## Download
-Version `3.0.0` released 07 August 2018.
+Version `3.0.1` released 08 August 2018.
 
 #### [Download Latest](https://github.com/PolarGeospatialCenter/comnap-antarctic-facilities/releases)
 
