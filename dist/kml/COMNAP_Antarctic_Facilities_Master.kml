@@ -1,0 +1,2617 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="comnap_antarctic_facilities_master" id="comnap_antarctic_facilities_master">
+	<SimpleField name="Record_ID_" type="float"></SimpleField>
+	<SimpleField name="English_Na" type="string"></SimpleField>
+	<SimpleField name="Official_N" type="string"></SimpleField>
+	<SimpleField name="Operator__" type="string"></SimpleField>
+	<SimpleField name="Operator_1" type="string"></SimpleField>
+	<SimpleField name="Type" type="string"></SimpleField>
+	<SimpleField name="Seasonalit" type="string"></SimpleField>
+	<SimpleField name="Status" type="string"></SimpleField>
+	<SimpleField name="Year_Estab" type="float"></SimpleField>
+	<SimpleField name="Antarctic_" type="string"></SimpleField>
+	<SimpleField name="Latitude__" type="float"></SimpleField>
+	<SimpleField name="Longitude_" type="float"></SimpleField>
+	<SimpleField name="Latitude_1" type="string"></SimpleField>
+	<SimpleField name="Longitude1" type="string"></SimpleField>
+	<SimpleField name="Elevation_" type="float"></SimpleField>
+	<SimpleField name="Elevation1" type="string"></SimpleField>
+	<SimpleField name="Peak_Popul" type="float"></SimpleField>
+	<SimpleField name="Power_Supp" type="string"></SimpleField>
+	<SimpleField name="Photo_URL" type="string"></SimpleField>
+	<SimpleField name="Webcam_URL" type="string"></SimpleField>
+	<SimpleField name="Date_Modif" type="string"></SimpleField>
+</Schema>
+<Folder><name>comnap_antarctic_facilities_master</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">4</SimpleData>
+		<SimpleData name="English_Na">Belgrano II Antartic Base</SimpleData>
+		<SimpleData name="Official_N">Base Antártica Belgrano II</SimpleData>
+		<SimpleData name="Operator__">Argentina</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1979</SimpleData>
+		<SimpleData name="Latitude__">-77.87388900000</SimpleData>
+		<SimpleData name="Longitude_">-34.62777800000</SimpleData>
+		<SimpleData name="Latitude_1">77° 52.4333' S</SimpleData>
+		<SimpleData name="Longitude1">34° 37.6667' W</SimpleData>
+		<SimpleData name="Elevation_">256.50000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r4/e56/v0/Base_Belgrano.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-31 07:03 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-34.627778,-77.873889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">5</SimpleData>
+		<SimpleData name="English_Na">Brown Antartic Base</SimpleData>
+		<SimpleData name="Official_N">Base Antártica Brown</SimpleData>
+		<SimpleData name="Operator__">Argentina</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Temporarily Closed</SimpleData>
+		<SimpleData name="Year_Estab">1951</SimpleData>
+		<SimpleData name="Latitude__">-64.89537000000</SimpleData>
+		<SimpleData name="Longitude_">-62.87045200000</SimpleData>
+		<SimpleData name="Latitude_1">64° 53.7222' S</SimpleData>
+		<SimpleData name="Longitude1">62° 52.2271' W</SimpleData>
+		<SimpleData name="Elevation_">22.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">12</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r5/e56/v0/2202_Brown_02-1024x595.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-31 07:03 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.8704519999999,-64.89537</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">6</SimpleData>
+		<SimpleData name="English_Na">Cámara Antartic Base</SimpleData>
+		<SimpleData name="Official_N">Base Antártica Cámara</SimpleData>
+		<SimpleData name="Operator__">Argentina</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1953</SimpleData>
+		<SimpleData name="Latitude__">-62.59385800000</SimpleData>
+		<SimpleData name="Longitude_">-59.91934400000</SimpleData>
+		<SimpleData name="Latitude_1">62° 35.6315' S</SimpleData>
+		<SimpleData name="Longitude1">59° 55.1606' W</SimpleData>
+		<SimpleData name="Elevation_">22.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">22</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r6/e56/v0/C%C3%A1mara-Base.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-31 07:04 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.919344,-62.593858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">9</SimpleData>
+		<SimpleData name="English_Na">Carlini Antartic Base</SimpleData>
+		<SimpleData name="Official_N">Base Antártica Carlini</SimpleData>
+		<SimpleData name="Operator__">Argentina</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1953</SimpleData>
+		<SimpleData name="Latitude__">-62.23790000000</SimpleData>
+		<SimpleData name="Longitude_">-58.66684200000</SimpleData>
+		<SimpleData name="Latitude_1">62° 14.274' S</SimpleData>
+		<SimpleData name="Longitude1">58° 40.0105' W</SimpleData>
+		<SimpleData name="Elevation_">10.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">80</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r9/e56/v0/cav2016_carlini.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-31 07:04 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.666842,-62.2379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">7</SimpleData>
+		<SimpleData name="English_Na">Decepcion Antartic Base</SimpleData>
+		<SimpleData name="Official_N">Base Antártica Decepción</SimpleData>
+		<SimpleData name="Operator__">Argentina</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1948</SimpleData>
+		<SimpleData name="Latitude__">-62.97676000000</SimpleData>
+		<SimpleData name="Longitude_">-60.70069500000</SimpleData>
+		<SimpleData name="Latitude_1">62° 58.6056' S</SimpleData>
+		<SimpleData name="Longitude1">60° 42.0417' W</SimpleData>
+		<SimpleData name="Elevation_">7.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">36</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r7/e56/v0/Decepci%BEn_beach_20-01-16.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-31 07:04 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.7006949999999,-62.97676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">8</SimpleData>
+		<SimpleData name="English_Na">Esperanza Antartic Base</SimpleData>
+		<SimpleData name="Official_N">Base Antártica Esperanza</SimpleData>
+		<SimpleData name="Operator__">Argentina</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1952</SimpleData>
+		<SimpleData name="Latitude__">-63.39695900000</SimpleData>
+		<SimpleData name="Longitude_">-56.99805400000</SimpleData>
+		<SimpleData name="Latitude_1">63° 23.8175' S</SimpleData>
+		<SimpleData name="Longitude1">56° 59.8832' W</SimpleData>
+		<SimpleData name="Elevation_">25.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">90</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r8/e56/v0/antartida_base_esperanza_12.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-31 07:05 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.998054,-63.396959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">10</SimpleData>
+		<SimpleData name="English_Na">Marambio Antartic Base</SimpleData>
+		<SimpleData name="Official_N">Base Antártica Marambio</SimpleData>
+		<SimpleData name="Operator__">Argentina</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1969</SimpleData>
+		<SimpleData name="Latitude__">-64.24176900000</SimpleData>
+		<SimpleData name="Longitude_">-56.62322500000</SimpleData>
+		<SimpleData name="Latitude_1">64° 14.5061' S</SimpleData>
+		<SimpleData name="Longitude1">56° 37.3935' W</SimpleData>
+		<SimpleData name="Elevation_">209.50000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">165</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r10/e56/v0/BASE-MARAMBIO-H%C3%89RCULES-C-130-Copy.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-31 07:05 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.6232249999999,-64.241769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">11</SimpleData>
+		<SimpleData name="English_Na">Matienzo Antartic Base</SimpleData>
+		<SimpleData name="Official_N">Base Antártica Matienzo</SimpleData>
+		<SimpleData name="Operator__">Argentina</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1961</SimpleData>
+		<SimpleData name="Latitude__">-64.97586500000</SimpleData>
+		<SimpleData name="Longitude_">-60.07094800000</SimpleData>
+		<SimpleData name="Latitude_1">64° 58.5519' S</SimpleData>
+		<SimpleData name="Longitude1">60° 4.2569' W</SimpleData>
+		<SimpleData name="Elevation_">32.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">12</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r11/e56/v0/matienzooverflight.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-31 07:06 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.070948,-64.9758649999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">12</SimpleData>
+		<SimpleData name="English_Na">Melchior Antartic Base</SimpleData>
+		<SimpleData name="Official_N">Base Antártica Melchior</SimpleData>
+		<SimpleData name="Operator__">Argentina</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Temporarily Closed</SimpleData>
+		<SimpleData name="Year_Estab">1947</SimpleData>
+		<SimpleData name="Latitude__">-64.32570500000</SimpleData>
+		<SimpleData name="Longitude_">-62.97632900000</SimpleData>
+		<SimpleData name="Latitude_1">64° 19.5423' S</SimpleData>
+		<SimpleData name="Longitude1">62° 58.5797' W</SimpleData>
+		<SimpleData name="Elevation_">4.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">15</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r12/e56/v0/Base%20Melchior.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-31 07:06 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.976329,-64.325705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">13</SimpleData>
+		<SimpleData name="English_Na">Orcadas Antartic Base</SimpleData>
+		<SimpleData name="Official_N">Base Orcadas</SimpleData>
+		<SimpleData name="Operator__">Argentina</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1904</SimpleData>
+		<SimpleData name="Latitude__">-60.73759200000</SimpleData>
+		<SimpleData name="Longitude_">-44.73738700000</SimpleData>
+		<SimpleData name="Latitude_1">60° 44.2555' S</SimpleData>
+		<SimpleData name="Longitude1">44° 44.2432' W</SimpleData>
+		<SimpleData name="Elevation_">8.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">65</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r13/e56/v0/Orcadas.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-31 07:07 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.737387,-60.7375919999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">14</SimpleData>
+		<SimpleData name="English_Na">Petrel Antartic Base</SimpleData>
+		<SimpleData name="Official_N">Base Antártica Petrel</SimpleData>
+		<SimpleData name="Operator__">Argentina</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1952</SimpleData>
+		<SimpleData name="Latitude__">-63.47830300000</SimpleData>
+		<SimpleData name="Longitude_">-56.23099300000</SimpleData>
+		<SimpleData name="Latitude_1">63° 28.6982' S</SimpleData>
+		<SimpleData name="Longitude1">56° 13.8596' W</SimpleData>
+		<SimpleData name="Elevation_">18.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">45</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r14/e56/v0/petrel2013.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-31 07:12 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.230993,-63.478303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">15</SimpleData>
+		<SimpleData name="English_Na">Primavera Antartic Base</SimpleData>
+		<SimpleData name="Official_N">Base Antártica Primavera</SimpleData>
+		<SimpleData name="Operator__">Argentina</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1977</SimpleData>
+		<SimpleData name="Latitude__">-64.15585400000</SimpleData>
+		<SimpleData name="Longitude_">-60.95425600000</SimpleData>
+		<SimpleData name="Latitude_1">64° 9.3512' S</SimpleData>
+		<SimpleData name="Longitude1">60° 57.2554' W</SimpleData>
+		<SimpleData name="Elevation_">50.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">18</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r15/e56/v0/primavera.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-31 07:08 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.954256,-64.155854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">16</SimpleData>
+		<SimpleData name="English_Na">San Martin Antartic Base</SimpleData>
+		<SimpleData name="Official_N">Base Antártica San Martín</SimpleData>
+		<SimpleData name="Operator__">Argentina</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1951</SimpleData>
+		<SimpleData name="Latitude__">-68.13030000000</SimpleData>
+		<SimpleData name="Longitude_">-67.10293100000</SimpleData>
+		<SimpleData name="Latitude_1">68° 7.818' S</SimpleData>
+		<SimpleData name="Longitude1">67° 6.1759' W</SimpleData>
+		<SimpleData name="Elevation_">5.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">21</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r16/e56/v0/San%20Martin.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-31 07:09 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.102931,-68.1303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">19</SimpleData>
+		<SimpleData name="English_Na">Casey</SimpleData>
+		<SimpleData name="Official_N">Casey Station</SimpleData>
+		<SimpleData name="Operator__">Australia</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1969</SimpleData>
+		<SimpleData name="Latitude__">-66.28234300000</SimpleData>
+		<SimpleData name="Longitude_">110.52679200000</SimpleData>
+		<SimpleData name="Latitude_1">66° 16.9406' S</SimpleData>
+		<SimpleData name="Longitude1">110° 31.6075' E</SimpleData>
+		<SimpleData name="Elevation_">32.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">120</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r19/e56/v0/Casey%20from%20air%20006.jpg</SimpleData>
+		<SimpleData name="Webcam_URL">http://www.antarctica.gov.au/webcams/casey</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-11 10:44 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>110.526792,-66.282343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">20</SimpleData>
+		<SimpleData name="English_Na">Davis</SimpleData>
+		<SimpleData name="Official_N">Davis Station</SimpleData>
+		<SimpleData name="Operator__">Australia</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1957</SimpleData>
+		<SimpleData name="Latitude__">-68.57593800000</SimpleData>
+		<SimpleData name="Longitude_">77.96951600000</SimpleData>
+		<SimpleData name="Latitude_1">68° 34.5563' S</SimpleData>
+		<SimpleData name="Longitude1">77° 58.171' E</SimpleData>
+		<SimpleData name="Elevation_">27.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">91</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r20/e56/v0/Davis%20Aerial%202014005.jpg</SimpleData>
+		<SimpleData name="Webcam_URL">http://www.antarctica.gov.au/webcams/davis</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-11 10:47 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.9695160000001,-68.575938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">17</SimpleData>
+		<SimpleData name="English_Na">Edgeworth David</SimpleData>
+		<SimpleData name="Official_N">Edgeworth David Camp</SimpleData>
+		<SimpleData name="Operator__">Australia</SimpleData>
+		<SimpleData name="Type">Camp</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">0</SimpleData>
+		<SimpleData name="Latitude__">-66.24993500000</SimpleData>
+		<SimpleData name="Longitude_">100.60421300000</SimpleData>
+		<SimpleData name="Latitude_1">66° 14.9961' S</SimpleData>
+		<SimpleData name="Longitude1">100° 36.2528' E</SimpleData>
+		<SimpleData name="Elevation_">15.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r17/e56/v0/Bunger%20Crosswind%20Strip.png</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-11 11:00 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.604213,-66.2499349999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">22</SimpleData>
+		<SimpleData name="English_Na">Law</SimpleData>
+		<SimpleData name="Official_N">Law Station</SimpleData>
+		<SimpleData name="Operator__">Australia</SimpleData>
+		<SimpleData name="Type">Refuge</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">0</SimpleData>
+		<SimpleData name="Latitude__">-69.38829600000</SimpleData>
+		<SimpleData name="Longitude_">76.38069600000</SimpleData>
+		<SimpleData name="Latitude_1">69° 23.2978' S</SimpleData>
+		<SimpleData name="Longitude1">76° 22.8418' E</SimpleData>
+		<SimpleData name="Elevation_">0.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">13</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r22/e56/v0/Law%20Base.png</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-15 08:45 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.3806960000001,-69.388296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">120</SimpleData>
+		<SimpleData name="English_Na">Macquarie Island</SimpleData>
+		<SimpleData name="Official_N">Macquarie Island</SimpleData>
+		<SimpleData name="Operator__">Australia</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1948</SimpleData>
+		<SimpleData name="Latitude__">-54.49939200000</SimpleData>
+		<SimpleData name="Longitude_">158.93679400000</SimpleData>
+		<SimpleData name="Latitude_1">54° 29.9635' S</SimpleData>
+		<SimpleData name="Longitude1">158° 56.2076' E</SimpleData>
+		<SimpleData name="Elevation_">0.00000000000</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r120/e56/v0/Macca%202.tif</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-14 03:14 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>158.936794,-54.4993919999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">21</SimpleData>
+		<SimpleData name="English_Na">Mawson</SimpleData>
+		<SimpleData name="Official_N">Mawson Station</SimpleData>
+		<SimpleData name="Operator__">Australia</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1954</SimpleData>
+		<SimpleData name="Latitude__">-67.60264400000</SimpleData>
+		<SimpleData name="Longitude_">62.87302800000</SimpleData>
+		<SimpleData name="Latitude_1">67° 36.1586' S</SimpleData>
+		<SimpleData name="Longitude1">62° 52.3817' E</SimpleData>
+		<SimpleData name="Elevation_">15.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">53</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r21/e56/v0/MawsonAirCasa_20050203.jpg</SimpleData>
+		<SimpleData name="Webcam_URL">http://www.antarctica.gov.au/webcams/mawson</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-11 10:52 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.873028,-67.6026439999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">18</SimpleData>
+		<SimpleData name="English_Na">Wilkins Aerodrome</SimpleData>
+		<SimpleData name="Official_N">Wilkins Aerodrome</SimpleData>
+		<SimpleData name="Operator__">Australia</SimpleData>
+		<SimpleData name="Type">Airfield Camp</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Temporarily Closed</SimpleData>
+		<SimpleData name="Year_Estab">2003</SimpleData>
+		<SimpleData name="Latitude__">-66.68741600000</SimpleData>
+		<SimpleData name="Longitude_">111.48715000000</SimpleData>
+		<SimpleData name="Latitude_1">66° 41.245' S</SimpleData>
+		<SimpleData name="Longitude1">111° 29.229' E</SimpleData>
+		<SimpleData name="Elevation_">734.70000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">12</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r18/e56/v0/Wilkins%20Camp%20-%20Laydown%20Area%20%26%20Apron.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-15 04:07 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>111.48715,-66.687416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">23</SimpleData>
+		<SimpleData name="English_Na">Princess Elisabeth Antarctica</SimpleData>
+		<SimpleData name="Official_N">Princess Elisabeth Antarctica</SimpleData>
+		<SimpleData name="Operator__">Belgium</SimpleData>
+		<SimpleData name="Operator_1">Belgium</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">2008</SimpleData>
+		<SimpleData name="Latitude__">-71.94985800000</SimpleData>
+		<SimpleData name="Longitude_">23.34689100000</SimpleData>
+		<SimpleData name="Latitude_1">71° 56.9915' S</SimpleData>
+		<SimpleData name="Longitude1">23° 20.8135' E</SimpleData>
+		<SimpleData name="Elevation_">1382.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">50</SimpleData>
+		<SimpleData name="Power_Supp">Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r23/e56/v0/PEA%2020210210%20ldef.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-09-04 08:50 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>23.346891,-71.9498579999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">242</SimpleData>
+		<SimpleData name="English_Na">Goeldi</SimpleData>
+		<SimpleData name="Official_N">Emilio Goeldi</SimpleData>
+		<SimpleData name="Operator__">Brazil</SimpleData>
+		<SimpleData name="Type">Refuge</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1988</SimpleData>
+		<SimpleData name="Latitude__">-61.13333300000</SimpleData>
+		<SimpleData name="Longitude_">-55.35000000000</SimpleData>
+		<SimpleData name="Latitude_1">61° 8' S</SimpleData>
+		<SimpleData name="Longitude1">55° 21' W</SimpleData>
+		<SimpleData name="Elevation_">0.00000000000</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Date_Modif">2020-11-13 11:27 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.35,-61.1333329999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">24</SimpleData>
+		<SimpleData name="English_Na">Comandante Ferraz</SimpleData>
+		<SimpleData name="Official_N">Estacao Antartica Comandante Ferraz</SimpleData>
+		<SimpleData name="Operator__">Brazil</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1984</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-62.08547200000</SimpleData>
+		<SimpleData name="Longitude_">-58.39872200000</SimpleData>
+		<SimpleData name="Latitude_1">62° 5.1283' S</SimpleData>
+		<SimpleData name="Longitude1">58° 23.9233' W</SimpleData>
+		<SimpleData name="Elevation_">3.00000000000</SimpleData>
+		<SimpleData name="Elevation1">Other</SimpleData>
+		<SimpleData name="Peak_Popul">64</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r24/e56/v0/EACF%20frente%201.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-19 10:53 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.398722,-62.085472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">238</SimpleData>
+		<SimpleData name="English_Na">Criosfera 1</SimpleData>
+		<SimpleData name="Official_N">Criosfera 1</SimpleData>
+		<SimpleData name="Operator__">Brazil</SimpleData>
+		<SimpleData name="Type">Laboratory</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">2012</SimpleData>
+		<SimpleData name="Antarctic_">West Antarctica</SimpleData>
+		<SimpleData name="Latitude__">-84.00000000000</SimpleData>
+		<SimpleData name="Longitude_">-79.50000000000</SimpleData>
+		<SimpleData name="Latitude_1">84° 0' S</SimpleData>
+		<SimpleData name="Longitude1">79° 30' W</SimpleData>
+		<SimpleData name="Elevation_">1200.00000000000</SimpleData>
+		<SimpleData name="Peak_Popul">8</SimpleData>
+		<SimpleData name="Date_Modif">2023-03-26 03:52 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4999999999999,-83.9999999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">240</SimpleData>
+		<SimpleData name="English_Na">Cruls</SimpleData>
+		<SimpleData name="Official_N">Astrônomo Cruls</SimpleData>
+		<SimpleData name="Operator__">Brazil</SimpleData>
+		<SimpleData name="Type">Refuge</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">0</SimpleData>
+		<SimpleData name="Latitude__">-62.25000000000</SimpleData>
+		<SimpleData name="Longitude_">-58.98000000000</SimpleData>
+		<SimpleData name="Latitude_1">62° 15' S</SimpleData>
+		<SimpleData name="Longitude1">58° 58.8' W</SimpleData>
+		<SimpleData name="Elevation_">0.00000000000</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Date_Modif">2020-11-13 07:31 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.98,-62.2499999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">25</SimpleData>
+		<SimpleData name="English_Na">St. Kliment Ohridski</SimpleData>
+		<SimpleData name="Official_N">St. Kliment Ohridski Base</SimpleData>
+		<SimpleData name="Operator__">Bulgaria</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1988</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-62.64072307000</SimpleData>
+		<SimpleData name="Longitude_">-60.36523384000</SimpleData>
+		<SimpleData name="Latitude_1">62° 38.4434' S</SimpleData>
+		<SimpleData name="Longitude1">60° 21.914' W</SimpleData>
+		<SimpleData name="Elevation_">15.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">22</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r25/e56/v0/Bulgarian%20Antarctic%20Base%20(4)_Christo%20Pimpirev_27.01.2011.JPG</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-05 05:34 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.36523384,-62.64072307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">28</SimpleData>
+		<SimpleData name="English_Na">Arturo Prat Antarctic Naval Base</SimpleData>
+		<SimpleData name="Official_N">Base Naval Antártica Arturo Prat</SimpleData>
+		<SimpleData name="Operator__">Chile</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1947</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-62.47871700000</SimpleData>
+		<SimpleData name="Longitude_">-59.66360300000</SimpleData>
+		<SimpleData name="Latitude_1">62° 28.723' S</SimpleData>
+		<SimpleData name="Longitude1">59° 39.8162' W</SimpleData>
+		<SimpleData name="Elevation_">3.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">32</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r28/e56/v0/Base%20Prat.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-19 12:32 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.663603,-62.478717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">229</SimpleData>
+		<SimpleData name="English_Na">Bahía Fildes Maritime Station</SimpleData>
+		<SimpleData name="Official_N">Estación Marítima Bahía Fildes</SimpleData>
+		<SimpleData name="Operator__">Chile</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">0</SimpleData>
+		<SimpleData name="Latitude__">-62.20152200000</SimpleData>
+		<SimpleData name="Longitude_">-58.96115000000</SimpleData>
+		<SimpleData name="Latitude_1">62° 12.0913' S</SimpleData>
+		<SimpleData name="Longitude1">58° 57.669' W</SimpleData>
+		<SimpleData name="Elevation_">0.00000000000</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r229/e56/v0/Bah%C3%ADa%20Fildes%20Maritime%20Station.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-19 12:49 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.96115,-62.201522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">102</SimpleData>
+		<SimpleData name="English_Na">Carvajal</SimpleData>
+		<SimpleData name="Official_N">Lieutenant Luis Carvajal Villarroel (SCTJ)</SimpleData>
+		<SimpleData name="Operator__">Chile</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Temporarily Closed</SimpleData>
+		<SimpleData name="Year_Estab">1985</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-67.76132200000</SimpleData>
+		<SimpleData name="Longitude_">-68.91481500000</SimpleData>
+		<SimpleData name="Latitude_1">67° 45.6793' S</SimpleData>
+		<SimpleData name="Longitude1">68° 54.8889' W</SimpleData>
+		<SimpleData name="Elevation_">92.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">46</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r102/e56/v0/carvajal%2002_Instituto%20Ant%E1rtico%20Chileno.JPG</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-19 12:30 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-68.914815,-67.761322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">32</SimpleData>
+		<SimpleData name="English_Na">Dr. Guillermo Mann</SimpleData>
+		<SimpleData name="Official_N">Base Dr. Guillermo Mann</SimpleData>
+		<SimpleData name="Operator__">Chile</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1991</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-62.47015000000</SimpleData>
+		<SimpleData name="Longitude_">-60.77117800000</SimpleData>
+		<SimpleData name="Latitude_1">62° 28.209' S</SimpleData>
+		<SimpleData name="Longitude1">60° 46.2707' W</SimpleData>
+		<SimpleData name="Elevation_">15.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">8</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r32/e56/v0/SAM_0528.JPG</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-19 09:37 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.771178,-62.4701499999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">225</SimpleData>
+		<SimpleData name="English_Na">Estacion Polar Cientifica Conjunta Glaciar Union</SimpleData>
+		<SimpleData name="Official_N">Estación Polar Científica Conjunta Glaciar Unión (EPCCGU)</SimpleData>
+		<SimpleData name="Operator__">Chile</SimpleData>
+		<SimpleData name="Type">Camp</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">0</SimpleData>
+		<SimpleData name="Antarctic_">West Antarctica</SimpleData>
+		<SimpleData name="Latitude__">-79.76666700000</SimpleData>
+		<SimpleData name="Longitude_">-82.91666700000</SimpleData>
+		<SimpleData name="Latitude_1">79° 46' S</SimpleData>
+		<SimpleData name="Longitude1">82° 55' W</SimpleData>
+		<SimpleData name="Elevation_">680.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r225/e56/v0/Union%20Glacier_Instituto%20Ant%E1rtico%20Chileno.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-19 12:52 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.916667,-79.766667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">34</SimpleData>
+		<SimpleData name="English_Na">Gabriel Gonzalez Videla</SimpleData>
+		<SimpleData name="Official_N">Base Antártica Presidente Gabriel González Videla</SimpleData>
+		<SimpleData name="Operator__">Chile</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1951</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-64.82386200000</SimpleData>
+		<SimpleData name="Longitude_">-62.85749900000</SimpleData>
+		<SimpleData name="Latitude_1">64° 49.4317' S</SimpleData>
+		<SimpleData name="Longitude1">62° 51.4499' W</SimpleData>
+		<SimpleData name="Elevation_">6.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">15</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r34/e56/v0/base-ggv.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-19 12:47 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.857499,-64.823862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">27</SimpleData>
+		<SimpleData name="English_Na">Lieutenant Rodolfo Marsh Martin Aerodrome</SimpleData>
+		<SimpleData name="Official_N">Aerodromo Teniente Rodolfo Marsh Martin</SimpleData>
+		<SimpleData name="Operator__">Chile</SimpleData>
+		<SimpleData name="Type">Airfield Camp</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1980</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-62.19379400000</SimpleData>
+		<SimpleData name="Longitude_">-58.98060500000</SimpleData>
+		<SimpleData name="Latitude_1">62° 11.6276' S</SimpleData>
+		<SimpleData name="Longitude1">58° 58.8363' W</SimpleData>
+		<SimpleData name="Elevation_">46.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">15</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r27/e56/v0/Foto%20N%C2%BA%2002%20Base%20Frei%2C%20vista%20a%C3%A9rea%20Aer%C3%B3dromo%20Tte.%20Marsh%2C%20Base%20Pdte.%20Frei.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2017-12-04 05:43 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.980605,-62.193794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">31</SimpleData>
+		<SimpleData name="English_Na">O'Higgins Base</SimpleData>
+		<SimpleData name="Official_N">General Bernardo O'Higgins Riquelme</SimpleData>
+		<SimpleData name="Operator__">Chile</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1948</SimpleData>
+		<SimpleData name="Latitude__">-63.32095100000</SimpleData>
+		<SimpleData name="Longitude_">-57.89978100000</SimpleData>
+		<SimpleData name="Latitude_1">63° 19.2571' S</SimpleData>
+		<SimpleData name="Longitude1">57° 53.9869' W</SimpleData>
+		<SimpleData name="Elevation_">12.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">70</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r31/e56/v0/Base%20Ant%C3%A1rtica%20Bernardo%20O%27Higgins%202022.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-07-26 12:51 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.899781,-63.320951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">30</SimpleData>
+		<SimpleData name="English_Na">President Eduardo Frei Antarctic Base</SimpleData>
+		<SimpleData name="Official_N">Base Aérea Antártica Presidente Eduardo Frei Montalva</SimpleData>
+		<SimpleData name="Operator__">Chile</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1969</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-62.20023200000</SimpleData>
+		<SimpleData name="Longitude_">-58.96262700000</SimpleData>
+		<SimpleData name="Latitude_1">62° 12.0139' S</SimpleData>
+		<SimpleData name="Longitude1">58° 57.7576' W</SimpleData>
+		<SimpleData name="Elevation_">48.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">150</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r30/e56/v0/Base%20Frei%20Vista_a%C3%A9rea_congelada%202.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-19 12:45 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.9626269999999,-62.200232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">29</SimpleData>
+		<SimpleData name="English_Na">Professor Julio Escudero</SimpleData>
+		<SimpleData name="Official_N">Profesor Julio Escudero Base</SimpleData>
+		<SimpleData name="Operator__">Chile</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1995</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-62.20137300000</SimpleData>
+		<SimpleData name="Longitude_">-58.96267600000</SimpleData>
+		<SimpleData name="Latitude_1">62° 12.0824' S</SimpleData>
+		<SimpleData name="Longitude1">58° 57.7606' W</SimpleData>
+		<SimpleData name="Elevation_">10.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">60</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r29/e56/v0/P1040293.JPG</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-19 09:28 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.962676,-62.2013729999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">104</SimpleData>
+		<SimpleData name="English_Na">Rada Covadonga</SimpleData>
+		<SimpleData name="Official_N">Rada Covadonga</SimpleData>
+		<SimpleData name="Operator__">Chile</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">0</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-63.32065800000</SimpleData>
+		<SimpleData name="Longitude_">-57.89822400000</SimpleData>
+		<SimpleData name="Latitude_1">63° 19.2395' S</SimpleData>
+		<SimpleData name="Longitude1">57° 53.8934' W</SimpleData>
+		<SimpleData name="Elevation_">0.00000000000</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-19 12:59 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.898224,-63.320658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">103</SimpleData>
+		<SimpleData name="English_Na">Ripamonti</SimpleData>
+		<SimpleData name="Official_N">Ripamonti</SimpleData>
+		<SimpleData name="Operator__">Chile</SimpleData>
+		<SimpleData name="Type">Refuge</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">0</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-62.21015100000</SimpleData>
+		<SimpleData name="Longitude_">-58.93474000000</SimpleData>
+		<SimpleData name="Latitude_1">62° 12.6091' S</SimpleData>
+		<SimpleData name="Longitude1">58° 56.0844' W</SimpleData>
+		<SimpleData name="Elevation_">50.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r103/e56/v0/ripamonti-2_INACH.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-19 09:39 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.93474,-62.2101509999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">33</SimpleData>
+		<SimpleData name="English_Na">Risopatron</SimpleData>
+		<SimpleData name="Official_N">Luis Risopatrón</SimpleData>
+		<SimpleData name="Operator__">Chile</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1949</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-62.37853300000</SimpleData>
+		<SimpleData name="Longitude_">-59.70072400000</SimpleData>
+		<SimpleData name="Latitude_1">62° 22.712' S</SimpleData>
+		<SimpleData name="Longitude1">59° 42.0434' W</SimpleData>
+		<SimpleData name="Elevation_">15.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">6</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r33/e56/v0/IMG_0610.JPG</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-19 09:35 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.700724,-62.3785329999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">35</SimpleData>
+		<SimpleData name="English_Na">Yelcho</SimpleData>
+		<SimpleData name="Official_N">Base Yelcho</SimpleData>
+		<SimpleData name="Operator__">Chile</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1962</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-64.87585800000</SimpleData>
+		<SimpleData name="Longitude_">-63.58380600000</SimpleData>
+		<SimpleData name="Latitude_1">64° 52.5515' S</SimpleData>
+		<SimpleData name="Longitude1">63° 35.0284' W</SimpleData>
+		<SimpleData name="Elevation_">10.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">28</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r35/e56/v0/DSC02724.JPG</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-19 09:34 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.583806,-64.8758579999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">73</SimpleData>
+		<SimpleData name="English_Na">Great Wall</SimpleData>
+		<SimpleData name="Official_N">Great Wall Station</SimpleData>
+		<SimpleData name="Operator__">China</SimpleData>
+		<SimpleData name="Operator_1">China</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1985</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-62.21751900000</SimpleData>
+		<SimpleData name="Longitude_">-58.96199200000</SimpleData>
+		<SimpleData name="Latitude_1">62° 13.0511' S</SimpleData>
+		<SimpleData name="Longitude1">58° 57.7195' W</SimpleData>
+		<SimpleData name="Elevation_">10.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">60</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r73/e56/v0/Great%20Wall_overview%20of%20the%20Station_Cao%20Jianjun_2014-09-25.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2020-07-31 07:43 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.961992,-62.217519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">74</SimpleData>
+		<SimpleData name="English_Na">Kunlun</SimpleData>
+		<SimpleData name="Official_N">Kunlun Station</SimpleData>
+		<SimpleData name="Operator__">China</SimpleData>
+		<SimpleData name="Operator_1">China</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">2009</SimpleData>
+		<SimpleData name="Antarctic_">East Antarctica</SimpleData>
+		<SimpleData name="Latitude__">-80.41718972000</SimpleData>
+		<SimpleData name="Longitude_">77.11599730000</SimpleData>
+		<SimpleData name="Latitude_1">80° 25.0314' S</SimpleData>
+		<SimpleData name="Longitude1">77° 6.9598' E</SimpleData>
+		<SimpleData name="Elevation_">4087.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">26</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r74/e56/v0/Kunlun_overview%20of%20the%20Station_Wei%20Fuhai_2015-01-22.JPG</SimpleData>
+		<SimpleData name="Date_Modif">2018-03-26 02:53 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.1159973000001,-80.41718972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">96</SimpleData>
+		<SimpleData name="English_Na">Taishan</SimpleData>
+		<SimpleData name="Official_N">Taishan</SimpleData>
+		<SimpleData name="Operator__">China</SimpleData>
+		<SimpleData name="Operator_1">China</SimpleData>
+		<SimpleData name="Type">Camp</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">2014</SimpleData>
+		<SimpleData name="Antarctic_">East Antarctica</SimpleData>
+		<SimpleData name="Latitude__">-73.85000000000</SimpleData>
+		<SimpleData name="Longitude_">76.96666700000</SimpleData>
+		<SimpleData name="Latitude_1">73° 51' S</SimpleData>
+		<SimpleData name="Longitude1">76° 58' E</SimpleData>
+		<SimpleData name="Elevation_">2621.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">20</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r96/e56/v0/Taishan_close%20look_Wei%20Fuhai_2014-12-21.JPG</SimpleData>
+		<SimpleData name="Date_Modif">2017-10-04 01:30 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.966667,-73.85</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">75</SimpleData>
+		<SimpleData name="English_Na">Zhongshan</SimpleData>
+		<SimpleData name="Official_N">Zhongshan Station</SimpleData>
+		<SimpleData name="Operator__">China</SimpleData>
+		<SimpleData name="Operator_1">China</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1989</SimpleData>
+		<SimpleData name="Antarctic_">East Antarctica</SimpleData>
+		<SimpleData name="Latitude__">-69.37320600000</SimpleData>
+		<SimpleData name="Longitude_">76.37187100000</SimpleData>
+		<SimpleData name="Latitude_1">69° 22.3924' S</SimpleData>
+		<SimpleData name="Longitude1">76° 22.3123' E</SimpleData>
+		<SimpleData name="Elevation_">11.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">60</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r75/e56/v0/Zhongshan_overview%20of%20the%20Station%2001_Wei%20Fuhai_2014-02-26.JPG</SimpleData>
+		<SimpleData name="Date_Modif">2020-07-31 07:42 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.3718710000001,-69.373206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">36</SimpleData>
+		<SimpleData name="English_Na">Johann Gregor Mendel Czech Antarctic Station</SimpleData>
+		<SimpleData name="Official_N">Ceska vedecka stanice Johanna Gregora Mendela</SimpleData>
+		<SimpleData name="Operator__">Czech Republic</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">2006</SimpleData>
+		<SimpleData name="Latitude__">-63.80062500000</SimpleData>
+		<SimpleData name="Longitude_">-57.88259200000</SimpleData>
+		<SimpleData name="Latitude_1">63° 48.0375' S</SimpleData>
+		<SimpleData name="Longitude1">57° 52.9555' W</SimpleData>
+		<SimpleData name="Elevation_">10.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">20</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r36/e56/v0/Panorama04_Kamil_Laska.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-02 04:21 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.8825919999999,-63.800625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">38</SimpleData>
+		<SimpleData name="English_Na">Pedro Vicente Maldonado</SimpleData>
+		<SimpleData name="Official_N">Pedro Vicente Maldonado Station</SimpleData>
+		<SimpleData name="Operator__">Ecuador</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1990</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-62.44932928000</SimpleData>
+		<SimpleData name="Longitude_">-59.74096859000</SimpleData>
+		<SimpleData name="Latitude_1">62° 26.9598' S</SimpleData>
+		<SimpleData name="Longitude1">59° 44.4581' W</SimpleData>
+		<SimpleData name="Elevation_">10.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">34</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r38/e56/v0/Pedro%20Vicente%20Maldonado.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-10-07 10:05 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.74096859,-62.44932928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">37</SimpleData>
+		<SimpleData name="English_Na">Republica del Ecuador</SimpleData>
+		<SimpleData name="Official_N">Refugio República del Ecuador</SimpleData>
+		<SimpleData name="Operator__">Ecuador</SimpleData>
+		<SimpleData name="Type">Refuge</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1990</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-62.12099018000</SimpleData>
+		<SimpleData name="Longitude_">-58.39516120000</SimpleData>
+		<SimpleData name="Latitude_1">62° 7.2594' S</SimpleData>
+		<SimpleData name="Longitude1">58° 23.7097' W</SimpleData>
+		<SimpleData name="Elevation_">10.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">4</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r37/e56/v0/FOTO-REFUGIO-17-DIC-2013.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-15 11:18 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.3951612,-62.12099018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">39</SimpleData>
+		<SimpleData name="English_Na">Aboa</SimpleData>
+		<SimpleData name="Official_N">Aboa Station</SimpleData>
+		<SimpleData name="Operator__">Finland</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1988</SimpleData>
+		<SimpleData name="Antarctic_">Dronning Maud Land</SimpleData>
+		<SimpleData name="Latitude__">-73.04228194000</SimpleData>
+		<SimpleData name="Longitude_">-13.40735764000</SimpleData>
+		<SimpleData name="Latitude_1">73° 2.5369' S</SimpleData>
+		<SimpleData name="Longitude1">13° 24.4415' W</SimpleData>
+		<SimpleData name="Elevation_">400.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">17</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r39/e56/v0/Aboa_station_FINNARP%20(2)_13.1.6.JPG</SimpleData>
+		<SimpleData name="Date_Modif">2021-02-25 02:29 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-13.4073576399999,-73.04228194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">117</SimpleData>
+		<SimpleData name="English_Na">D85 Skiway camp</SimpleData>
+		<SimpleData name="Official_N">D85 Skiway camp</SimpleData>
+		<SimpleData name="Operator__">France</SimpleData>
+		<SimpleData name="Type">Airfield Camp</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">0</SimpleData>
+		<SimpleData name="Antarctic_">East Antarctica</SimpleData>
+		<SimpleData name="Latitude__">-70.42500000000</SimpleData>
+		<SimpleData name="Longitude_">134.14583300000</SimpleData>
+		<SimpleData name="Latitude_1">70° 25.5' S</SimpleData>
+		<SimpleData name="Longitude1">134° 8.75' E</SimpleData>
+		<SimpleData name="Elevation_">2850.00000000000</SimpleData>
+		<SimpleData name="Elevation1">WGS84</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Date_Modif">2016-11-27 02:11 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>134.145833,-70.425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">41</SimpleData>
+		<SimpleData name="English_Na">Dumont d'Urville</SimpleData>
+		<SimpleData name="Official_N">Dumont d'Urville Station</SimpleData>
+		<SimpleData name="Operator__">France</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1956</SimpleData>
+		<SimpleData name="Antarctic_">East Antarctica</SimpleData>
+		<SimpleData name="Latitude__">-66.66283300000</SimpleData>
+		<SimpleData name="Longitude_">140.00133300000</SimpleData>
+		<SimpleData name="Latitude_1">66° 39.77' S</SimpleData>
+		<SimpleData name="Longitude1">140° 0.08' E</SimpleData>
+		<SimpleData name="Elevation_">42.00000000000</SimpleData>
+		<SimpleData name="Elevation1">WGS84</SimpleData>
+		<SimpleData name="Peak_Popul">90</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r41/e56/v0/Ant-DDU-Station-Infrapol-2016-red.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-14 11:38 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.001333,-66.662833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">40</SimpleData>
+		<SimpleData name="English_Na">Robert Guillard</SimpleData>
+		<SimpleData name="Official_N">Robert Guillard</SimpleData>
+		<SimpleData name="Operator__">France</SimpleData>
+		<SimpleData name="Operator_1">Italy</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1994</SimpleData>
+		<SimpleData name="Antarctic_">East Antarctica</SimpleData>
+		<SimpleData name="Latitude__">-66.68760800000</SimpleData>
+		<SimpleData name="Longitude_">139.90717000000</SimpleData>
+		<SimpleData name="Latitude_1">66° 41.2565' S</SimpleData>
+		<SimpleData name="Longitude1">139° 54.4302' E</SimpleData>
+		<SimpleData name="Elevation_">10.00000000000</SimpleData>
+		<SimpleData name="Elevation1">WGS84</SimpleData>
+		<SimpleData name="Peak_Popul">20</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r40/e56/v0/Prudhomme_Elements%20de%20traverse_Katell%20PIERRE_06-02-16.JPG</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-14 11:39 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.90717,-66.687608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">44</SimpleData>
+		<SimpleData name="English_Na">German Antarctic Receiving Station (GARS)</SimpleData>
+		<SimpleData name="Official_N">German Antarctic Receiving Station (GARS)</SimpleData>
+		<SimpleData name="Operator__">Germany</SimpleData>
+		<SimpleData name="Operator_1">Germany</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1991</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-63.32109200000</SimpleData>
+		<SimpleData name="Longitude_">-57.90094000000</SimpleData>
+		<SimpleData name="Latitude_1">63° 19.2655' S</SimpleData>
+		<SimpleData name="Longitude1">57° 54.0564' W</SimpleData>
+		<SimpleData name="Elevation_">17.00000000000</SimpleData>
+		<SimpleData name="Elevation1">WGS84</SimpleData>
+		<SimpleData name="Peak_Popul">10</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r44/e56/v0/O_Higgins_Wendlant_2048.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-09-07 12:20 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.9009399999999,-63.321092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">45</SimpleData>
+		<SimpleData name="English_Na">Gondwana</SimpleData>
+		<SimpleData name="Official_N">Gondwana Station</SimpleData>
+		<SimpleData name="Operator__">Germany</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1983</SimpleData>
+		<SimpleData name="Antarctic_">Transantarctic Mountains</SimpleData>
+		<SimpleData name="Latitude__">-74.63550100000</SimpleData>
+		<SimpleData name="Longitude_">164.22121500000</SimpleData>
+		<SimpleData name="Latitude_1">74° 38.1301' S</SimpleData>
+		<SimpleData name="Longitude1">164° 13.2729' E</SimpleData>
+		<SimpleData name="Elevation_">20.00000000000</SimpleData>
+		<SimpleData name="Elevation1">WGS84</SimpleData>
+		<SimpleData name="Peak_Popul">20</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r45/e56/v0/BGR_Gondwana%20Station_5.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-09-07 12:06 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>164.221215,-74.635501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">46</SimpleData>
+		<SimpleData name="English_Na">Kohnen</SimpleData>
+		<SimpleData name="Official_N">Kohnen Station</SimpleData>
+		<SimpleData name="Operator__">Germany</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">2000</SimpleData>
+		<SimpleData name="Antarctic_">Dronning Maud Land</SimpleData>
+		<SimpleData name="Latitude__">-75.00190900000</SimpleData>
+		<SimpleData name="Longitude_">0.06633600000</SimpleData>
+		<SimpleData name="Latitude_1">75° 0.1145' S</SimpleData>
+		<SimpleData name="Longitude1">0° 3.9802' E</SimpleData>
+		<SimpleData name="Elevation_">2892.00000000000</SimpleData>
+		<SimpleData name="Elevation1">WGS84</SimpleData>
+		<SimpleData name="Peak_Popul">28</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r46/e56/v0/csm_20130112_CoFiKohnen2012-13_Kohnen2012_MLeonhardt_94aa025d13.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-02-16 01:27 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.066336,-75.001909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">47</SimpleData>
+		<SimpleData name="English_Na">Neumayer III</SimpleData>
+		<SimpleData name="Official_N">Neumayer-Station III</SimpleData>
+		<SimpleData name="Operator__">Germany</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">2009</SimpleData>
+		<SimpleData name="Latitude__">-70.66196000000</SimpleData>
+		<SimpleData name="Longitude_">-8.28347000000</SimpleData>
+		<SimpleData name="Latitude_1">70° 39.7176' S</SimpleData>
+		<SimpleData name="Longitude1">8° 17.0082' W</SimpleData>
+		<SimpleData name="Elevation_">43.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">60</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r47/e56/v0/NMIII_.jpg</SimpleData>
+		<SimpleData name="Webcam_URL">http://www.awi.de/en/expedition/stations/neumayer-station-iii.html</SimpleData>
+		<SimpleData name="Date_Modif">2022-09-14 06:03 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.28346999999997,-70.66196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">48</SimpleData>
+		<SimpleData name="English_Na">Bharati</SimpleData>
+		<SimpleData name="Official_N">Bharati Station</SimpleData>
+		<SimpleData name="Operator__">India</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">2012</SimpleData>
+		<SimpleData name="Latitude__">-69.40680000000</SimpleData>
+		<SimpleData name="Longitude_">76.19525000000</SimpleData>
+		<SimpleData name="Latitude_1">69° 24.408' S</SimpleData>
+		<SimpleData name="Longitude1">76° 11.715' E</SimpleData>
+		<SimpleData name="Elevation_">35.00000000000</SimpleData>
+		<SimpleData name="Peak_Popul">47</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r48/e56/v0/5N7A3386.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-09-02 01:53 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.19525,-69.4068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">50</SimpleData>
+		<SimpleData name="English_Na">Maitri</SimpleData>
+		<SimpleData name="Official_N">Maitri Station</SimpleData>
+		<SimpleData name="Operator__">India</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1989</SimpleData>
+		<SimpleData name="Latitude__">-70.76683400000</SimpleData>
+		<SimpleData name="Longitude_">11.73078300000</SimpleData>
+		<SimpleData name="Latitude_1">70° 46.01' S</SimpleData>
+		<SimpleData name="Longitude1">11° 43.847' E</SimpleData>
+		<SimpleData name="Elevation_">117.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">65</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r50/e56/v0/Maitri4_National%20Centre%20for%20Antarctic%20and%20Ocean%20Research.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-09-02 01:51 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.730783,-70.766834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">51</SimpleData>
+		<SimpleData name="English_Na">Browning Pass</SimpleData>
+		<SimpleData name="Official_N">Browning Pass</SimpleData>
+		<SimpleData name="Operator__">Italy</SimpleData>
+		<SimpleData name="Type">Airfield Camp</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1997</SimpleData>
+		<SimpleData name="Latitude__">-74.62290600000</SimpleData>
+		<SimpleData name="Longitude_">163.91517100000</SimpleData>
+		<SimpleData name="Latitude_1">74° 37.3744' S</SimpleData>
+		<SimpleData name="Longitude1">163° 54.9103' E</SimpleData>
+		<SimpleData name="Elevation_">63.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">2</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-30 06:31 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>163.915171,-74.6229059999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">42</SimpleData>
+		<SimpleData name="English_Na">Concordia</SimpleData>
+		<SimpleData name="Official_N">Concordia Station</SimpleData>
+		<SimpleData name="Operator__">Italy</SimpleData>
+		<SimpleData name="Operator_1">France</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1997</SimpleData>
+		<SimpleData name="Latitude__">-75.09997500000</SimpleData>
+		<SimpleData name="Longitude_">123.33260500000</SimpleData>
+		<SimpleData name="Latitude_1">75° 5.9985' S</SimpleData>
+		<SimpleData name="Longitude1">123° 19.9563' E</SimpleData>
+		<SimpleData name="Elevation_">3233.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">80</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r42/e56/v0/Concordia_aerial_pnra_15-09-28.jpeg</SimpleData>
+		<SimpleData name="Webcam_URL">www.italiantartide.it</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-30 06:31 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>123.332605,-75.099975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">52</SimpleData>
+		<SimpleData name="English_Na">Enigma Lake</SimpleData>
+		<SimpleData name="Official_N">Enigma Lake</SimpleData>
+		<SimpleData name="Operator__">Italy</SimpleData>
+		<SimpleData name="Type">Airfield Camp</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">2005</SimpleData>
+		<SimpleData name="Latitude__">-74.71916400000</SimpleData>
+		<SimpleData name="Longitude_">164.02771100000</SimpleData>
+		<SimpleData name="Latitude_1">74° 43.1498' S</SimpleData>
+		<SimpleData name="Longitude1">164° 1.6627' E</SimpleData>
+		<SimpleData name="Elevation_">250.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-30 06:32 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>164.027711,-74.719164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">55</SimpleData>
+		<SimpleData name="English_Na">Mario Zucchelli</SimpleData>
+		<SimpleData name="Official_N">Stazione Mario Zucchelli</SimpleData>
+		<SimpleData name="Operator__">Italy</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1986</SimpleData>
+		<SimpleData name="Latitude__">-74.69480700000</SimpleData>
+		<SimpleData name="Longitude_">164.11326800000</SimpleData>
+		<SimpleData name="Latitude_1">74° 41.6884' S</SimpleData>
+		<SimpleData name="Longitude1">164° 6.7961' E</SimpleData>
+		<SimpleData name="Elevation_">15.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">112</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r55/e56/v0/MZS_aerial_Nicklen_2011-10-25.jpeg</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-30 06:28 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>164.113268,-74.694807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">53</SimpleData>
+		<SimpleData name="English_Na">Mid Point</SimpleData>
+		<SimpleData name="Official_N">Mid Point</SimpleData>
+		<SimpleData name="Operator__">Italy</SimpleData>
+		<SimpleData name="Type">Airfield Camp</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1988</SimpleData>
+		<SimpleData name="Latitude__">-75.54170300000</SimpleData>
+		<SimpleData name="Longitude_">145.82039900000</SimpleData>
+		<SimpleData name="Latitude_1">75° 32.5022' S</SimpleData>
+		<SimpleData name="Longitude1">145° 49.2239' E</SimpleData>
+		<SimpleData name="Elevation_">2520.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-30 06:35 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.820399,-75.541703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">112</SimpleData>
+		<SimpleData name="English_Na">Talos Dome</SimpleData>
+		<SimpleData name="Official_N">Talos Dome</SimpleData>
+		<SimpleData name="Operator__">Italy</SimpleData>
+		<SimpleData name="Type">Camp</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">0</SimpleData>
+		<SimpleData name="Latitude__">-72.83021500000</SimpleData>
+		<SimpleData name="Longitude_">159.20043200000</SimpleData>
+		<SimpleData name="Latitude_1">72° 49.8129' S</SimpleData>
+		<SimpleData name="Longitude1">159° 12.0259' E</SimpleData>
+		<SimpleData name="Elevation_">0.00000000000</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-30 06:38 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>159.200432,-72.830215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">57</SimpleData>
+		<SimpleData name="English_Na">Asuka</SimpleData>
+		<SimpleData name="Official_N">Asuka Station</SimpleData>
+		<SimpleData name="Operator__">Japan</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Temporarily Closed</SimpleData>
+		<SimpleData name="Year_Estab">1985</SimpleData>
+		<SimpleData name="Antarctic_">East Antarctica</SimpleData>
+		<SimpleData name="Latitude__">-71.52627263000</SimpleData>
+		<SimpleData name="Longitude_">24.11251621000</SimpleData>
+		<SimpleData name="Latitude_1">71° 31.5764' S</SimpleData>
+		<SimpleData name="Longitude1">24° 6.751' E</SimpleData>
+		<SimpleData name="Elevation_">980.30000000000</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r57/e56/v0/ASUKA_ovrview_JARE28_87md%B4%C7%D1.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2017-11-19 07:14 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.11251621,-71.5262726299999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">58</SimpleData>
+		<SimpleData name="English_Na">Dome Fuji</SimpleData>
+		<SimpleData name="Official_N">Dome Fuji Station</SimpleData>
+		<SimpleData name="Operator__">Japan</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Temporarily Closed</SimpleData>
+		<SimpleData name="Year_Estab">1995</SimpleData>
+		<SimpleData name="Antarctic_">Dronning Maud Land</SimpleData>
+		<SimpleData name="Latitude__">-77.31707524000</SimpleData>
+		<SimpleData name="Longitude_">39.69877019000</SimpleData>
+		<SimpleData name="Latitude_1">77° 19.0245' S</SimpleData>
+		<SimpleData name="Longitude1">39° 41.9262' E</SimpleData>
+		<SimpleData name="Elevation_">3810.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">15</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r58/e56/v0/DmFUJI_huts_JARE%B4%C7%D1_yymmd%B4%C7%D1.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2018-10-09 08:54 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.6987701900001,-77.31707524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">59</SimpleData>
+		<SimpleData name="English_Na">Mizuho</SimpleData>
+		<SimpleData name="Official_N">Mizuho Station</SimpleData>
+		<SimpleData name="Operator__">Japan</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Temporarily Closed</SimpleData>
+		<SimpleData name="Year_Estab">1970</SimpleData>
+		<SimpleData name="Antarctic_">East Antarctica</SimpleData>
+		<SimpleData name="Latitude__">-70.69904560000</SimpleData>
+		<SimpleData name="Longitude_">44.27781168000</SimpleData>
+		<SimpleData name="Latitude_1">70° 41.9427' S</SimpleData>
+		<SimpleData name="Longitude1">44° 16.6687' E</SimpleData>
+		<SimpleData name="Elevation_">2244.40000000000</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r59/e56/v0/MIZUHO%20corrugate_JARE11_1970.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2020-05-06 03:00 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>44.2778116800001,-70.6990456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">56</SimpleData>
+		<SimpleData name="English_Na">S17 Camp</SimpleData>
+		<SimpleData name="Official_N">S17 Camp</SimpleData>
+		<SimpleData name="Operator__">Japan</SimpleData>
+		<SimpleData name="Type">Camp</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">0</SimpleData>
+		<SimpleData name="Antarctic_">Dronning Maud Land</SimpleData>
+		<SimpleData name="Latitude__">-69.02807600000</SimpleData>
+		<SimpleData name="Longitude_">40.09244900000</SimpleData>
+		<SimpleData name="Latitude_1">69° 1.6846' S</SimpleData>
+		<SimpleData name="Longitude1">40° 5.5469' E</SimpleData>
+		<SimpleData name="Elevation_">620.00000000000</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Date_Modif">2018-10-09 08:53 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.092449,-69.0280759999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">60</SimpleData>
+		<SimpleData name="English_Na">Syowa</SimpleData>
+		<SimpleData name="Official_N">Syowa Station</SimpleData>
+		<SimpleData name="Operator__">Japan</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1957</SimpleData>
+		<SimpleData name="Antarctic_">Dronning Maud Land</SimpleData>
+		<SimpleData name="Latitude__">-69.00412200000</SimpleData>
+		<SimpleData name="Longitude_">39.58183600000</SimpleData>
+		<SimpleData name="Latitude_1">69° 0.2473' S</SimpleData>
+		<SimpleData name="Longitude1">39° 34.9102' E</SimpleData>
+		<SimpleData name="Elevation_">29.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">170</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r60/e56/v0/Syowa%20Station.jpg</SimpleData>
+		<SimpleData name="Webcam_URL">http://www.nipr.ac.jp/webcam-top.html</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-15 01:03 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.5818360000001,-69.0041219999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">107</SimpleData>
+		<SimpleData name="English_Na">Dirck Gerritsz Laboratory</SimpleData>
+		<SimpleData name="Official_N">Dirck Gerritsz Laboratory</SimpleData>
+		<SimpleData name="Operator__">Netherlands</SimpleData>
+		<SimpleData name="Operator_1">United Kingdom</SimpleData>
+		<SimpleData name="Type">Laboratory</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">2012</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-67.56863600000</SimpleData>
+		<SimpleData name="Longitude_">-68.12437700000</SimpleData>
+		<SimpleData name="Latitude_1">67° 34.1182' S</SimpleData>
+		<SimpleData name="Longitude1">68° 7.4626' W</SimpleData>
+		<SimpleData name="Elevation_">16.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">10</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r107/e56/v0/Gerritsz_Lab_Vanderkroef_Jan2013.JPG</SimpleData>
+		<SimpleData name="Date_Modif">2018-03-27 03:30 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-68.124377,-67.568636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">61</SimpleData>
+		<SimpleData name="English_Na">Scott Base</SimpleData>
+		<SimpleData name="Official_N">Scott Base Station</SimpleData>
+		<SimpleData name="Operator__">New Zealand</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1957</SimpleData>
+		<SimpleData name="Latitude__">-77.84943700000</SimpleData>
+		<SimpleData name="Longitude_">166.76728100000</SimpleData>
+		<SimpleData name="Latitude_1">77° 50.9662' S</SimpleData>
+		<SimpleData name="Longitude1">166° 46.0369' E</SimpleData>
+		<SimpleData name="Elevation_">10.00000000000</SimpleData>
+		<SimpleData name="Peak_Popul">86</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r61/e56/v0/Scott%20Base.jpg</SimpleData>
+		<SimpleData name="Webcam_URL">https://www.antarcticanz.govt.nz/scott-base/webcams-weather</SimpleData>
+		<SimpleData name="Date_Modif">2023-02-15 05:19 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>166.767281,-77.849437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">62</SimpleData>
+		<SimpleData name="English_Na">Tor</SimpleData>
+		<SimpleData name="Official_N">Tor</SimpleData>
+		<SimpleData name="Operator__">Norway</SimpleData>
+		<SimpleData name="Type">Refuge</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1993</SimpleData>
+		<SimpleData name="Latitude__">-71.88951500000</SimpleData>
+		<SimpleData name="Longitude_">5.15989300000</SimpleData>
+		<SimpleData name="Latitude_1">71° 53.3709' S</SimpleData>
+		<SimpleData name="Longitude1">5° 9.5936' E</SimpleData>
+		<SimpleData name="Elevation_">1625.00000000000</SimpleData>
+		<SimpleData name="Elevation1">WGS84</SimpleData>
+		<SimpleData name="Peak_Popul">6</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r62/e56/v0/Tor%20Station%202018%20Seb%20Descamps.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-27 10:12 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>5.15989300000007,-71.889515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">63</SimpleData>
+		<SimpleData name="English_Na">Troll Station</SimpleData>
+		<SimpleData name="Official_N">Troll Forskningsstasjon</SimpleData>
+		<SimpleData name="Operator__">Norway</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1990</SimpleData>
+		<SimpleData name="Latitude__">-72.01194600000</SimpleData>
+		<SimpleData name="Longitude_">2.53307000000</SimpleData>
+		<SimpleData name="Latitude_1">72° 0.7168' S</SimpleData>
+		<SimpleData name="Longitude1">2° 31.9842' E</SimpleData>
+		<SimpleData name="Elevation_">1275.00000000000</SimpleData>
+		<SimpleData name="Elevation1">WGS84</SimpleData>
+		<SimpleData name="Peak_Popul">80</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r63/e56/v0/Troll%202019%20Sven%20Lidstrom.jpg</SimpleData>
+		<SimpleData name="Webcam_URL">https://www.npolar.no/en/troll/webcam/</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-27 10:15 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.53307000000007,-72.011946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">64</SimpleData>
+		<SimpleData name="English_Na">Machu Picchu</SimpleData>
+		<SimpleData name="Official_N">Machu Picchu Station</SimpleData>
+		<SimpleData name="Operator__">Peru</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1989</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-62.09159252000</SimpleData>
+		<SimpleData name="Longitude_">-58.47055896000</SimpleData>
+		<SimpleData name="Latitude_1">62° 5.4956' S</SimpleData>
+		<SimpleData name="Longitude1">58° 28.2335' W</SimpleData>
+		<SimpleData name="Elevation_">3.50000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">30</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r64/e56/v0/Machu%20Pichu%20Station_Peruvian%20National%20Antarctic%20Program.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2020-05-06 03:05 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.4705589599999,-62.0915925199999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">65</SimpleData>
+		<SimpleData name="English_Na">Henryk Arctowski</SimpleData>
+		<SimpleData name="Official_N">Henryk Arctowski Polish Antarctic Station</SimpleData>
+		<SimpleData name="Operator__">Poland</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1977</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-62.15977300000</SimpleData>
+		<SimpleData name="Longitude_">-58.47332200000</SimpleData>
+		<SimpleData name="Latitude_1">62° 9.5864' S</SimpleData>
+		<SimpleData name="Longitude1">58° 28.3993' W</SimpleData>
+		<SimpleData name="Elevation_">2.00000000000</SimpleData>
+		<SimpleData name="Elevation1">WGS84</SimpleData>
+		<SimpleData name="Peak_Popul">40</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r65/e56/v0/arctowski_overlook_latusek_280116.JPG</SimpleData>
+		<SimpleData name="Date_Modif">2020-08-21 06:33 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.4733219999999,-62.159773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">101</SimpleData>
+		<SimpleData name="English_Na">Mountain Evening</SimpleData>
+		<SimpleData name="Official_N">Mountain Vechernyaya</SimpleData>
+		<SimpleData name="Operator__">Republic of Belarus</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">2006</SimpleData>
+		<SimpleData name="Antarctic_">East Antarctica</SimpleData>
+		<SimpleData name="Latitude__">-67.65833300000</SimpleData>
+		<SimpleData name="Longitude_">46.15333300000</SimpleData>
+		<SimpleData name="Latitude_1">67° 39.5' S</SimpleData>
+		<SimpleData name="Longitude1">46° 9.2' E</SimpleData>
+		<SimpleData name="Elevation_">95.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">12</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r101/e56/v0/Geographical%20complex%20Mountain%20Vechernua_First%20building%20Belarus%20Antarctic%20station%20_Torbic_16.01.21.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-09-14 04:06 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>46.153333,-67.658333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">106</SimpleData>
+		<SimpleData name="English_Na">Jang Bogo</SimpleData>
+		<SimpleData name="Official_N">Jang Bogo</SimpleData>
+		<SimpleData name="Operator__">Republic of Korea</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">2014</SimpleData>
+		<SimpleData name="Latitude__">-74.62333300000</SimpleData>
+		<SimpleData name="Longitude_">164.20000000000</SimpleData>
+		<SimpleData name="Latitude_1">74° 37.4' S</SimpleData>
+		<SimpleData name="Longitude1">164° 12' E</SimpleData>
+		<SimpleData name="Elevation_">36.60000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">80</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r106/e56/v0/JBG_.jpg</SimpleData>
+		<SimpleData name="Webcam_URL">https://monitor.kopri.re.kr/cctv/view.html?base=jangbogo</SimpleData>
+		<SimpleData name="Date_Modif">2023-01-19 06:48 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>164.2,-74.6233329999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">105</SimpleData>
+		<SimpleData name="English_Na">King Sejong</SimpleData>
+		<SimpleData name="Official_N">King Sejong</SimpleData>
+		<SimpleData name="Operator__">Republic of Korea</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1988</SimpleData>
+		<SimpleData name="Latitude__">-62.21666700000</SimpleData>
+		<SimpleData name="Longitude_">-58.78333300000</SimpleData>
+		<SimpleData name="Latitude_1">62° 13' S</SimpleData>
+		<SimpleData name="Longitude1">58° 47' W</SimpleData>
+		<SimpleData name="Elevation_">10.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">78</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r105/e56/v0/KSJ_201803.jpg</SimpleData>
+		<SimpleData name="Webcam_URL">https://monitor.kopri.re.kr/cctv/view.html?base=sejong</SimpleData>
+		<SimpleData name="Date_Modif">2023-01-19 06:44 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.783333,-62.216667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">68</SimpleData>
+		<SimpleData name="English_Na">Bellingshausen</SimpleData>
+		<SimpleData name="Official_N">Bellingshausen</SimpleData>
+		<SimpleData name="Operator__">Russia</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1968</SimpleData>
+		<SimpleData name="Latitude__">-62.19818400000</SimpleData>
+		<SimpleData name="Longitude_">-58.96060900000</SimpleData>
+		<SimpleData name="Latitude_1">62° 11.891' S</SimpleData>
+		<SimpleData name="Longitude1">58° 57.6365' W</SimpleData>
+		<SimpleData name="Elevation_">16.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">40</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r68/e56/v0/Bellingshausen01%20.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-08-31 04:18 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.960609,-62.198184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">108</SimpleData>
+		<SimpleData name="English_Na">Bunger Oasis</SimpleData>
+		<SimpleData name="Official_N">Bunger Oasis</SimpleData>
+		<SimpleData name="Operator__">Russia</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">0</SimpleData>
+		<SimpleData name="Latitude__">-66.26666700000</SimpleData>
+		<SimpleData name="Longitude_">100.73333300000</SimpleData>
+		<SimpleData name="Latitude_1">66° 16' S</SimpleData>
+		<SimpleData name="Longitude1">100° 44' E</SimpleData>
+		<SimpleData name="Elevation_">29.00000000000</SimpleData>
+		<SimpleData name="Peak_Popul">15</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Date_Modif">2022-01-21 12:28 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.733333,-66.266667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">69</SimpleData>
+		<SimpleData name="English_Na">Druzhnaya IV</SimpleData>
+		<SimpleData name="Official_N">Druzhnaya IV</SimpleData>
+		<SimpleData name="Operator__">Russia</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">0</SimpleData>
+		<SimpleData name="Latitude__">-69.74782700000</SimpleData>
+		<SimpleData name="Longitude_">73.70921400000</SimpleData>
+		<SimpleData name="Latitude_1">69° 44.8696' S</SimpleData>
+		<SimpleData name="Longitude1">73° 42.5528' E</SimpleData>
+		<SimpleData name="Elevation_">20.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">50</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r69/e56/v0/Druzhnaya%20IV_AARI-RAE_2006.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-08-31 04:34 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.709214,-69.747827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">70</SimpleData>
+		<SimpleData name="English_Na">Leningradskaya</SimpleData>
+		<SimpleData name="Official_N">Leningradskaya</SimpleData>
+		<SimpleData name="Operator__">Russia</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1971</SimpleData>
+		<SimpleData name="Latitude__">-69.50149600000</SimpleData>
+		<SimpleData name="Longitude_">159.39114800000</SimpleData>
+		<SimpleData name="Latitude_1">69° 30.0898' S</SimpleData>
+		<SimpleData name="Longitude1">159° 23.4689' E</SimpleData>
+		<SimpleData name="Elevation_">300.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">10</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r70/e56/v0/Leningradskaya_AARI-RAE_2014.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-01 12:34 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>159.391148,-69.501496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">71</SimpleData>
+		<SimpleData name="English_Na">Mirny</SimpleData>
+		<SimpleData name="Official_N">Mirny</SimpleData>
+		<SimpleData name="Operator__">Russia</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1956</SimpleData>
+		<SimpleData name="Latitude__">-66.55318100000</SimpleData>
+		<SimpleData name="Longitude_">93.00955900000</SimpleData>
+		<SimpleData name="Latitude_1">66° 33.1909' S</SimpleData>
+		<SimpleData name="Longitude1">93° 0.5735' E</SimpleData>
+		<SimpleData name="Elevation_">35.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">50</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r71/e56/v0/Mirny01.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-08-31 04:38 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.0095590000001,-66.5531809999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">72</SimpleData>
+		<SimpleData name="English_Na">Molodezhnaya</SimpleData>
+		<SimpleData name="Official_N">Molodezhnaya</SimpleData>
+		<SimpleData name="Operator__">Russia</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1963</SimpleData>
+		<SimpleData name="Latitude__">-67.66544300000</SimpleData>
+		<SimpleData name="Longitude_">45.84203800000</SimpleData>
+		<SimpleData name="Latitude_1">67° 39.9266' S</SimpleData>
+		<SimpleData name="Longitude1">45° 50.5223' E</SimpleData>
+		<SimpleData name="Elevation_">40.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">15</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r72/e56/v0/Molodezhnaya_AARI-RAE_2014.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-08-31 06:17 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.8420380000001,-67.665443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">76</SimpleData>
+		<SimpleData name="English_Na">Novolazarevskaya</SimpleData>
+		<SimpleData name="Official_N">Novolazarevskaya</SimpleData>
+		<SimpleData name="Operator__">Russia</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1961</SimpleData>
+		<SimpleData name="Latitude__">-70.77579600000</SimpleData>
+		<SimpleData name="Longitude_">11.83215100000</SimpleData>
+		<SimpleData name="Latitude_1">70° 46.5478' S</SimpleData>
+		<SimpleData name="Longitude1">11° 49.9291' E</SimpleData>
+		<SimpleData name="Elevation_">102.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">70</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r76/e56/v0/Novolazarevskaya01.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-08-31 04:48 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.8321510000001,-70.775796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">77</SimpleData>
+		<SimpleData name="English_Na">Progress</SimpleData>
+		<SimpleData name="Official_N">Progress</SimpleData>
+		<SimpleData name="Operator__">Russia</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1989</SimpleData>
+		<SimpleData name="Latitude__">-69.37795000000</SimpleData>
+		<SimpleData name="Longitude_">76.38824700000</SimpleData>
+		<SimpleData name="Latitude_1">69° 22.677' S</SimpleData>
+		<SimpleData name="Longitude1">76° 23.2948' E</SimpleData>
+		<SimpleData name="Elevation_">15.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">50</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r77/e56/v0/Progress.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-08-31 05:17 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.388247,-69.3779499999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">78</SimpleData>
+		<SimpleData name="English_Na">Russkaya</SimpleData>
+		<SimpleData name="Official_N">Russkaya</SimpleData>
+		<SimpleData name="Operator__">Russia</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1980</SimpleData>
+		<SimpleData name="Latitude__">-74.76572600000</SimpleData>
+		<SimpleData name="Longitude_">-136.80007200000</SimpleData>
+		<SimpleData name="Latitude_1">74° 45.9436' S</SimpleData>
+		<SimpleData name="Longitude1">136° 48.0043' W</SimpleData>
+		<SimpleData name="Elevation_">126.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">10</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r78/e56/v0/Russkaya_AARI-RAE_2014.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-08-31 05:51 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-136.800072,-74.765726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">79</SimpleData>
+		<SimpleData name="English_Na">Soyuz</SimpleData>
+		<SimpleData name="Official_N">Soyuz</SimpleData>
+		<SimpleData name="Operator__">Russia</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Temporarily Closed</SimpleData>
+		<SimpleData name="Year_Estab">1982</SimpleData>
+		<SimpleData name="Antarctic_">East Antarctica</SimpleData>
+		<SimpleData name="Latitude__">-70.57657700000</SimpleData>
+		<SimpleData name="Longitude_">68.79493700000</SimpleData>
+		<SimpleData name="Latitude_1">70° 34.5946' S</SimpleData>
+		<SimpleData name="Longitude1">68° 47.6962' E</SimpleData>
+		<SimpleData name="Elevation_">336.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">30</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Date_Modif">2018-08-10 01:07 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.7949370000001,-70.576577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">80</SimpleData>
+		<SimpleData name="English_Na">Vostok</SimpleData>
+		<SimpleData name="Official_N">Vostok</SimpleData>
+		<SimpleData name="Operator__">Russia</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1957</SimpleData>
+		<SimpleData name="Latitude__">-78.46418200000</SimpleData>
+		<SimpleData name="Longitude_">106.83688200000</SimpleData>
+		<SimpleData name="Latitude_1">78° 27.8509' S</SimpleData>
+		<SimpleData name="Longitude1">106° 50.2129' E</SimpleData>
+		<SimpleData name="Elevation_">3488.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">30</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r80/e56/v0/Vostok01.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-08-31 05:56 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>106.836882,-78.4641819999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">81</SimpleData>
+		<SimpleData name="English_Na">SANAE IV</SimpleData>
+		<SimpleData name="Official_N">SANAE IV</SimpleData>
+		<SimpleData name="Operator__">South Africa</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1962</SimpleData>
+		<SimpleData name="Antarctic_">Dronning Maud Land</SimpleData>
+		<SimpleData name="Latitude__">-71.67287300000</SimpleData>
+		<SimpleData name="Longitude_">-2.84032400000</SimpleData>
+		<SimpleData name="Latitude_1">71° 40.3724' S</SimpleData>
+		<SimpleData name="Longitude1">2° 50.4194' W</SimpleData>
+		<SimpleData name="Elevation_">850.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">80</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r81/e56/v0/SANAE%20BASE.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-15 03:43 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.84032399999995,-71.672873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">232</SimpleData>
+		<SimpleData name="English_Na">SANAP Summer Station</SimpleData>
+		<SimpleData name="Official_N">SANAP Summer Station</SimpleData>
+		<SimpleData name="Operator__">South Africa</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">2010</SimpleData>
+		<SimpleData name="Latitude__">-70.64999740000</SimpleData>
+		<SimpleData name="Longitude_">-8.24999900000</SimpleData>
+		<SimpleData name="Latitude_1">70° 38.9998' S</SimpleData>
+		<SimpleData name="Longitude1">8° 14.9999' W</SimpleData>
+		<SimpleData name="Elevation_">0.00000000000</SimpleData>
+		<SimpleData name="Peak_Popul">20</SimpleData>
+		<SimpleData name="Date_Modif">2018-04-25 08:58 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.24999899999995,-70.6499974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">82</SimpleData>
+		<SimpleData name="English_Na">Gabriel de Castilla Station</SimpleData>
+		<SimpleData name="Official_N">Gabriel de Castilla Station</SimpleData>
+		<SimpleData name="Operator__">Spain</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1990</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-62.97719656000</SimpleData>
+		<SimpleData name="Longitude_">-60.67574545000</SimpleData>
+		<SimpleData name="Latitude_1">62° 58.6318' S</SimpleData>
+		<SimpleData name="Longitude1">60° 40.5447' W</SimpleData>
+		<SimpleData name="Elevation_">15.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">36</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r82/e56/v0/Gabriel%20de%20Castilla_station_aerial_view_2_Gabriel%20Gollanes_15_12_22.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-11-08 05:10 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.67574545,-62.97719656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">110</SimpleData>
+		<SimpleData name="English_Na">International Field Camp Peninsula Byers</SimpleData>
+		<SimpleData name="Official_N">International Field Camp Peninsula Byers</SimpleData>
+		<SimpleData name="Operator__">Spain</SimpleData>
+		<SimpleData name="Type">Camp</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">2001</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-62.66377200000</SimpleData>
+		<SimpleData name="Longitude_">-61.09943600000</SimpleData>
+		<SimpleData name="Latitude_1">62° 39.8263' S</SimpleData>
+		<SimpleData name="Longitude1">61° 5.9662' W</SimpleData>
+		<SimpleData name="Elevation_">10.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">12</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r110/e56/v0/Byers_camp_overview_UTM.JPG</SimpleData>
+		<SimpleData name="Date_Modif">2020-07-30 06:25 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.099436,-62.6637719999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">83</SimpleData>
+		<SimpleData name="English_Na">Juan Carlos I</SimpleData>
+		<SimpleData name="Official_N">Juan Carlos I Station</SimpleData>
+		<SimpleData name="Operator__">Spain</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1988</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-62.66340863000</SimpleData>
+		<SimpleData name="Longitude_">-60.38814603000</SimpleData>
+		<SimpleData name="Latitude_1">62° 39.8045' S</SimpleData>
+		<SimpleData name="Longitude1">60° 23.2888' W</SimpleData>
+		<SimpleData name="Elevation_">12.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">50</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r83/e56/v0/JuanCarlosI_station_Felipe_14_11_30.JPG</SimpleData>
+		<SimpleData name="Date_Modif">2021-10-14 05:36 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.38814603,-62.6634086299999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">84</SimpleData>
+		<SimpleData name="English_Na">Svea</SimpleData>
+		<SimpleData name="Official_N">Svea</SimpleData>
+		<SimpleData name="Operator__">Sweden</SimpleData>
+		<SimpleData name="Type">Refuge</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Temporarily Closed</SimpleData>
+		<SimpleData name="Year_Estab">0</SimpleData>
+		<SimpleData name="Latitude__">-74.57606100000</SimpleData>
+		<SimpleData name="Longitude_">-11.22487200000</SimpleData>
+		<SimpleData name="Latitude_1">74° 34.5637' S</SimpleData>
+		<SimpleData name="Longitude1">11° 13.4923' W</SimpleData>
+		<SimpleData name="Elevation_">0.00000000000</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Date_Modif">2021-02-04 10:14 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-11.2248719999999,-74.576061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">85</SimpleData>
+		<SimpleData name="English_Na">Wasa</SimpleData>
+		<SimpleData name="Official_N">Wasa</SimpleData>
+		<SimpleData name="Operator__">Sweden</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Temporarily Closed</SimpleData>
+		<SimpleData name="Year_Estab">1989</SimpleData>
+		<SimpleData name="Latitude__">-73.04279900000</SimpleData>
+		<SimpleData name="Longitude_">-13.41291000000</SimpleData>
+		<SimpleData name="Latitude_1">73° 2.5679' S</SimpleData>
+		<SimpleData name="Longitude1">13° 24.7746' W</SimpleData>
+		<SimpleData name="Elevation_">440.00000000000</SimpleData>
+		<SimpleData name="Elevation1">WGS84</SimpleData>
+		<SimpleData name="Peak_Popul">10</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r85/e56/v0/Wasa%20station%20Sweden.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-08-24 10:33 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-13.41291,-73.0427989999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">237</SimpleData>
+		<SimpleData name="English_Na">Turkish Scientific Research Camp</SimpleData>
+		<SimpleData name="Official_N">Turkish Scientific Research Camp</SimpleData>
+		<SimpleData name="Operator__">Türkiye</SimpleData>
+		<SimpleData name="Type">Camp</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">2019</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-67.82965000000</SimpleData>
+		<SimpleData name="Longitude_">-67.23774700000</SimpleData>
+		<SimpleData name="Latitude_1">67° 49.779' S</SimpleData>
+		<SimpleData name="Longitude1">67° 14.2648' W</SimpleData>
+		<SimpleData name="Elevation_">4.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">8</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r237/e56/v0/Turkish_Sci_Res_Camp_2020.jpeg</SimpleData>
+		<SimpleData name="Date_Modif">2023-03-26 03:58 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.237747,-67.82965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">86</SimpleData>
+		<SimpleData name="English_Na">Vernadsky</SimpleData>
+		<SimpleData name="Official_N">Vernadsky</SimpleData>
+		<SimpleData name="Operator__">Ukraine</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1996</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-65.24574295000</SimpleData>
+		<SimpleData name="Longitude_">-64.25748123000</SimpleData>
+		<SimpleData name="Latitude_1">65° 14.7446' S</SimpleData>
+		<SimpleData name="Longitude1">64° 15.4489' W</SimpleData>
+		<SimpleData name="Elevation_">7.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">24</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r86/e56/v0/Vernadsky_general_view_Pishniak_2012.JPG</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-14 09:21 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.2574812299999,-65.24574295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">87</SimpleData>
+		<SimpleData name="English_Na">Fossil Bluff</SimpleData>
+		<SimpleData name="Official_N">Fossil Bluff</SimpleData>
+		<SimpleData name="Operator__">United Kingdom</SimpleData>
+		<SimpleData name="Type">Depot</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1961</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-71.32341200000</SimpleData>
+		<SimpleData name="Longitude_">-68.28906400000</SimpleData>
+		<SimpleData name="Latitude_1">71° 19.4047' S</SimpleData>
+		<SimpleData name="Longitude1">68° 17.3438' W</SimpleData>
+		<SimpleData name="Elevation_">92.00000000000</SimpleData>
+		<SimpleData name="Elevation1">WGS84</SimpleData>
+		<SimpleData name="Peak_Popul">6</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Date_Modif">2022-07-28 12:23 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-68.2890639999999,-71.323412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">90</SimpleData>
+		<SimpleData name="English_Na">Halley VI</SimpleData>
+		<SimpleData name="Official_N">Halley VI</SimpleData>
+		<SimpleData name="Operator__">United Kingdom</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1956</SimpleData>
+		<SimpleData name="Latitude__">-75.57111100000</SimpleData>
+		<SimpleData name="Longitude_">-25.47388900000</SimpleData>
+		<SimpleData name="Latitude_1">75° 34.2667' S</SimpleData>
+		<SimpleData name="Longitude1">25° 28.4333' W</SimpleData>
+		<SimpleData name="Elevation_">37.00000000000</SimpleData>
+		<SimpleData name="Elevation1">WGS84</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r90/e56/v0/BAS-10011257.jpg</SimpleData>
+		<SimpleData name="Webcam_URL">https://www.bas.ac.uk/polar-operations/sites-and-facilities/facility/halley/</SimpleData>
+		<SimpleData name="Date_Modif">2022-07-28 12:30 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-25.4738889999999,-75.571111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">91</SimpleData>
+		<SimpleData name="English_Na">Rothera</SimpleData>
+		<SimpleData name="Official_N">Rothera Research Station</SimpleData>
+		<SimpleData name="Operator__">United Kingdom</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1975</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-67.56952900000</SimpleData>
+		<SimpleData name="Longitude_">-68.12488800000</SimpleData>
+		<SimpleData name="Latitude_1">67° 34.1717' S</SimpleData>
+		<SimpleData name="Longitude1">68° 7.4933' W</SimpleData>
+		<SimpleData name="Elevation_">16.00000000000</SimpleData>
+		<SimpleData name="Elevation1">WGS84</SimpleData>
+		<SimpleData name="Peak_Popul">136</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r91/e56/v0/Rothera%20Station_BAS.jpg</SimpleData>
+		<SimpleData name="Webcam_URL">https://www.bas.ac.uk/polar-operations/sites-and-facilities/facility/rothera/</SimpleData>
+		<SimpleData name="Date_Modif">2022-07-28 12:41 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-68.1248879999999,-67.569529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">92</SimpleData>
+		<SimpleData name="English_Na">Signy</SimpleData>
+		<SimpleData name="Official_N">Signy Station</SimpleData>
+		<SimpleData name="Operator__">United Kingdom</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1947</SimpleData>
+		<SimpleData name="Latitude__">-60.70828739000</SimpleData>
+		<SimpleData name="Longitude_">-45.59538916000</SimpleData>
+		<SimpleData name="Latitude_1">60° 42.4972' S</SimpleData>
+		<SimpleData name="Longitude1">45° 35.7233' W</SimpleData>
+		<SimpleData name="Elevation_">5.00000000000</SimpleData>
+		<SimpleData name="Elevation1">WGS84</SimpleData>
+		<SimpleData name="Peak_Popul">8</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r92/e56/v0/Signy_HRES.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-07-28 12:44 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-45.59538916,-60.70828739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">89</SimpleData>
+		<SimpleData name="English_Na">Sky Blu</SimpleData>
+		<SimpleData name="Official_N">Sky Blu</SimpleData>
+		<SimpleData name="Operator__">United Kingdom</SimpleData>
+		<SimpleData name="Type">Depot</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">0</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-74.85635100000</SimpleData>
+		<SimpleData name="Longitude_">-71.58520000000</SimpleData>
+		<SimpleData name="Latitude_1">74° 51.3811' S</SimpleData>
+		<SimpleData name="Longitude1">71° 35.112' W</SimpleData>
+		<SimpleData name="Elevation_">1400.00000000000</SimpleData>
+		<SimpleData name="Elevation1">WGS84</SimpleData>
+		<SimpleData name="Peak_Popul">6</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Date_Modif">2022-07-28 12:23 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.5852,-74.856351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">2</SimpleData>
+		<SimpleData name="English_Na">Amundsen-Scott South Pole</SimpleData>
+		<SimpleData name="Official_N">Amundsen-Scott South Pole Station</SimpleData>
+		<SimpleData name="Operator__">United States</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1957</SimpleData>
+		<SimpleData name="Latitude__">-89.99750000000</SimpleData>
+		<SimpleData name="Longitude_">139.27280000000</SimpleData>
+		<SimpleData name="Latitude_1">89° 59.85' S</SimpleData>
+		<SimpleData name="Longitude1">139° 16.368' E</SimpleData>
+		<SimpleData name="Elevation_">2830.00000000000</SimpleData>
+		<SimpleData name="Elevation1">WGS84</SimpleData>
+		<SimpleData name="Peak_Popul">153</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r2/e56/v0/south-pole-station.jpg</SimpleData>
+		<SimpleData name="Webcam_URL">https://www.usap.gov/videoClipsAndMaps/spwebcam.cfm</SimpleData>
+		<SimpleData name="Date_Modif">2022-02-16 11:11 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.2728,-89.9974999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">99</SimpleData>
+		<SimpleData name="English_Na">Byrd Surface</SimpleData>
+		<SimpleData name="Official_N">Byrd Surface Camp</SimpleData>
+		<SimpleData name="Operator__">United States</SimpleData>
+		<SimpleData name="Type">Camp</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">0</SimpleData>
+		<SimpleData name="Latitude__">-80.01389400000</SimpleData>
+		<SimpleData name="Longitude_">-119.56135300000</SimpleData>
+		<SimpleData name="Latitude_1">80° 0.8336' S</SimpleData>
+		<SimpleData name="Longitude1">119° 33.6812' W</SimpleData>
+		<SimpleData name="Elevation_">0.00000000000</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Date_Modif">2021-02-08 01:13 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.561353,-80.0138939999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">95</SimpleData>
+		<SimpleData name="English_Na">Marble Point Refueling Facility</SimpleData>
+		<SimpleData name="Official_N">Marble Point Refueling Facility</SimpleData>
+		<SimpleData name="Operator__">United States</SimpleData>
+		<SimpleData name="Type">Depot</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">0</SimpleData>
+		<SimpleData name="Latitude__">-77.41366600000</SimpleData>
+		<SimpleData name="Longitude_">163.67916600000</SimpleData>
+		<SimpleData name="Latitude_1">77° 24.82' S</SimpleData>
+		<SimpleData name="Longitude1">163° 40.75' E</SimpleData>
+		<SimpleData name="Elevation_">0.00000000000</SimpleData>
+		<SimpleData name="Peak_Popul">0</SimpleData>
+		<SimpleData name="Date_Modif">2021-02-08 01:36 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>163.679166,-77.413666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">1</SimpleData>
+		<SimpleData name="English_Na">McMurdo</SimpleData>
+		<SimpleData name="Official_N">McMurdo Station</SimpleData>
+		<SimpleData name="Operator__">United States</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1956</SimpleData>
+		<SimpleData name="Antarctic_">Transantarctic Mountains</SimpleData>
+		<SimpleData name="Latitude__">-77.84820900000</SimpleData>
+		<SimpleData name="Longitude_">166.66842200000</SimpleData>
+		<SimpleData name="Latitude_1">77° 50.8925' S</SimpleData>
+		<SimpleData name="Longitude1">166° 40.1053' E</SimpleData>
+		<SimpleData name="Elevation_">10.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">1200</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel;Renewable</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r1/e56/v0/MCMURDO8.JPG</SimpleData>
+		<SimpleData name="Webcam_URL">https://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-29 04:08 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>166.668422,-77.8482089999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">3</SimpleData>
+		<SimpleData name="English_Na">Palmer</SimpleData>
+		<SimpleData name="Official_N">Palmer Station</SimpleData>
+		<SimpleData name="Operator__">United States</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1965</SimpleData>
+		<SimpleData name="Antarctic_">Antarctic Peninsula</SimpleData>
+		<SimpleData name="Latitude__">-64.77426100000</SimpleData>
+		<SimpleData name="Longitude_">-64.05333400000</SimpleData>
+		<SimpleData name="Latitude_1">64° 46.4557' S</SimpleData>
+		<SimpleData name="Longitude1">64° 3.2' W</SimpleData>
+		<SimpleData name="Elevation_">10.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">46</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r3/e56/v0/Palmer_Station_Hood_14-10-09.jpg</SimpleData>
+		<SimpleData name="Webcam_URL">https://www.usap.gov/videoClipsAndMaps/palwebcam.cfm</SimpleData>
+		<SimpleData name="Date_Modif">2021-03-29 04:08 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.0533339999999,-64.774261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">113</SimpleData>
+		<SimpleData name="English_Na">Shackleton Glacier Camp</SimpleData>
+		<SimpleData name="Official_N">Shackleton Glacier Camp</SimpleData>
+		<SimpleData name="Operator__">United States</SimpleData>
+		<SimpleData name="Type">Camp</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">2015</SimpleData>
+		<SimpleData name="Antarctic_">Transantarctic Mountains</SimpleData>
+		<SimpleData name="Latitude__">-85.08623200000</SimpleData>
+		<SimpleData name="Longitude_">-175.28946900000</SimpleData>
+		<SimpleData name="Latitude_1">85° 5.1739' S</SimpleData>
+		<SimpleData name="Longitude1">175° 17.3681' W</SimpleData>
+		<SimpleData name="Elevation_">0.00000000000</SimpleData>
+		<SimpleData name="Peak_Popul">20</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r113/e56/v0/Shackleton.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2017-08-04 07:25 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-175.289469,-85.0862319999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">111</SimpleData>
+		<SimpleData name="English_Na">Siple Dome</SimpleData>
+		<SimpleData name="Official_N">Siple Dome</SimpleData>
+		<SimpleData name="Operator__">United States</SimpleData>
+		<SimpleData name="Type">Camp</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1973</SimpleData>
+		<SimpleData name="Antarctic_">West Antarctica</SimpleData>
+		<SimpleData name="Latitude__">-81.65377100000</SimpleData>
+		<SimpleData name="Longitude_">-149.00184600000</SimpleData>
+		<SimpleData name="Latitude_1">81° 39.2263' S</SimpleData>
+		<SimpleData name="Longitude1">149° 0.1108' W</SimpleData>
+		<SimpleData name="Elevation_">0.00000000000</SimpleData>
+		<SimpleData name="Peak_Popul">10</SimpleData>
+		<SimpleData name="Date_Modif">2020-08-28 01:20 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.001846,-81.6537709999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">114</SimpleData>
+		<SimpleData name="English_Na">WAIS Divide</SimpleData>
+		<SimpleData name="Official_N">WAIS Divide Camp</SimpleData>
+		<SimpleData name="Operator__">United States</SimpleData>
+		<SimpleData name="Type">Camp</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">2005</SimpleData>
+		<SimpleData name="Antarctic_">West Antarctica</SimpleData>
+		<SimpleData name="Latitude__">-79.47128600000</SimpleData>
+		<SimpleData name="Longitude_">-112.07215400000</SimpleData>
+		<SimpleData name="Latitude_1">79° 28.2772' S</SimpleData>
+		<SimpleData name="Longitude1">112° 4.3292' W</SimpleData>
+		<SimpleData name="Elevation_">0.00000000000</SimpleData>
+		<SimpleData name="Peak_Popul">40</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r114/e56/v0/WSD%20aerial%20camp%20labeled%2015-16.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2020-08-28 01:12 PM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-112.072154,-79.471286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">93</SimpleData>
+		<SimpleData name="English_Na">Artigas</SimpleData>
+		<SimpleData name="Official_N">Artigas Station</SimpleData>
+		<SimpleData name="Operator__">Uruguay</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Year-Round</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1984</SimpleData>
+		<SimpleData name="Latitude__">-62.18455100000</SimpleData>
+		<SimpleData name="Longitude_">-58.90244200000</SimpleData>
+		<SimpleData name="Latitude_1">62° 11.0731' S</SimpleData>
+		<SimpleData name="Longitude1">58° 54.1465' W</SimpleData>
+		<SimpleData name="Elevation_">17.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">50</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r93/e56/v0/BCAA%20PICTURE%201.jpg</SimpleData>
+		<SimpleData name="Date_Modif">2022-04-22 07:56 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.902442,-62.1845509999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#comnap_antarctic_facilities_master">
+		<SimpleData name="Record_ID_">94</SimpleData>
+		<SimpleData name="English_Na">Ruperto Elichiribehety</SimpleData>
+		<SimpleData name="Official_N">Ruperto Elichiribehety Station</SimpleData>
+		<SimpleData name="Operator__">Uruguay</SimpleData>
+		<SimpleData name="Type">Station</SimpleData>
+		<SimpleData name="Seasonalit">Seasonal</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Year_Estab">1997</SimpleData>
+		<SimpleData name="Latitude__">-63.40237200000</SimpleData>
+		<SimpleData name="Longitude_">-56.99090700000</SimpleData>
+		<SimpleData name="Latitude_1">63° 24.1423' S</SimpleData>
+		<SimpleData name="Longitude1">56° 59.4544' W</SimpleData>
+		<SimpleData name="Elevation_">28.00000000000</SimpleData>
+		<SimpleData name="Elevation1">MSL</SimpleData>
+		<SimpleData name="Peak_Popul">8</SimpleData>
+		<SimpleData name="Power_Supp">Fossil Fuel</SimpleData>
+		<SimpleData name="Photo_URL">https://comnap.quickbase.com/up/bibrbwkpg/a/r94/e56/v0/Ruperto%20Station%2C%20IAU.JPG</SimpleData>
+		<SimpleData name="Date_Modif">2022-03-23 10:28 AM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.9909069999999,-63.402372</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

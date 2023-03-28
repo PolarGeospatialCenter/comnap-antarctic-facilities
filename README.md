@@ -10,6 +10,9 @@ Version `3.3.0` released 04 May 2020.
 
 #### [Download Latest](https://github.com/PolarGeospatialCenter/comnap-antarctic-facilities/releases)
 
+## Web services
+Documentation [here](https://github.com/PolarGeospatialCenter/comnap-antarctic-facilities/tree/master/dist#web-mapping-services).
+
 ## File Formats
 See the [dist](/dist) directory for description of file formats and data.
 
