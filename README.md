@@ -1,7 +1,6 @@
+## DEPRECATED - This repository is not maintained.  Up-to-date data can be found on the [COMNAP website](https://www.comnap.aq/antarctic-facilities-information).
+
 ![COMNAP Logo](/img/comnap-logo-color.png)
-
-## DEPRECATED - This repository is not maintained.  Up-to-date-data can be found on the [COMNAP website](https://www.comnap.aq/antarctic-facilities-information).
-
 # COMNAP Antarctic Facilities
 The Council of Managers of National Antarctic Programs (COMNAP) maintains a curated list of Antarctic facilities (stations, camps, etc.).
 
